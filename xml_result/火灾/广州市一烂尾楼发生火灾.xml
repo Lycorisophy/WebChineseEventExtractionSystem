@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>（
+			<Participant>记者毕征通讯员史伟宗、龚宣）</Participant>
+			<Time>昨日18时50分许</Time>，
+			<Location>越秀区起义路217号建业大厦（25层高，系烂尾楼，部分楼层</Location>
+			<Denoter>存放</Denoter>货物）发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			省委书记
+			<Participant>胡春华</Participant>作出
+			<Denoter>指示</Denoter>，广州市委书记
+			<Participant>万庆良，副省长、省公安厅长李春生</Participant>，市长陈建华，市委常委、常务副市长陈如桂，副市长、市公安局长
+			<Participant>谢晓丹</Participant>等到
+			<Location>现场</Location>
+			<Denoter>指挥</Denoter>灭火救援和群众
+			<Denoter>疏散</Denoter>
+			<Object>安置工作</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>市公安局组织消防支队</Participant>、交警支队及越秀区公安分局等单位到场
+			<Denoter>开展</Denoter>
+			<Object>灭火救援工作</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>消防部门</Participant>紧急
+			<Denoter>调集</Denoter>
+			<Participant>28个消防中队</Participant>、58台消防车、380多名消防官兵到场
+			<Denoter>扑救</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>期间</Time>，
+			<Location>越秀区</Location>共
+			<Denoter>疏散</Denoter>
+			<Participant>1600多名群众</Participant>，分别
+			<Denoter>安置</Denoter>在
+			<Location>周边5个临时</Location>
+			<Denoter>安置</Denoter>点，并
+			<Denoter>提供</Denoter>食品和御寒物品等物资。
+		</Sentence>
+	</Content>
+</Body>

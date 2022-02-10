@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			在[UNK]９・１１[UNK]事件周年即将来临之际，
+			<Location>阿富汗</Location>
+			<Time>５日</Time>发生了两起令人震惊的恐
+			<Denoter>怖袭击</Denoter>事件。
+		</Sentence>
+		<Sentence>
+			<Object>一枚汽车炸弹</Object>在
+			<Location>阿富汗首都喀布尔</Location>发生
+			<Denoter>爆炸</Denoter>，造成至少３０人死亡，１５##０人受伤。
+		</Sentence>
+	</Content>
+</Body>

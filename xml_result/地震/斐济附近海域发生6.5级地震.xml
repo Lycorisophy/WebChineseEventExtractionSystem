@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社苏瓦</Participant>
+			<Time>3月26日</Time>电（记者刘鹏）据美国地质勘探局消息，
+			<Location>南太平洋岛国斐济附近海域</Location>
+			<Time>当地时间26日下午</Time>发生6.5级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>尚无人员伤亡和财产损失报告。
+		</Sentence>
+		<Sentence>
+			<Participant>美国地质勘探局地震</Participant>监测网数据显示，这次
+			<Denoter>地震</Denoter>发生在
+			<Time>当地时间26日15时29分</Time>（北京时间11时29分），震中位于
+			<Location>斐济首都苏瓦以南88##5公里处海域</Location>，震源深度475.1公里。
+		</Sentence>
+		<Sentence>
+			<Participant>太平洋海啸预警中心</Participant>没有针对这次
+			<Denoter>地震</Denoter>发布
+			<Denoter>海啸</Denoter>预警。
+		</Sentence>
+	</Content>
+</Body>

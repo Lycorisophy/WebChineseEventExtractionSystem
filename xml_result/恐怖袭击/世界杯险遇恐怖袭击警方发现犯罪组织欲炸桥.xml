@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>巴西当地媒体</Participant>
+			<Time>4月8日</Time>
+			<Denoter>报道</Denoter>，
+			<Participant>巴西联邦监狱系统</Participant>
+			<Time>日前</Time>发现一起犯罪分子企图
+			<Denoter>炸毁</Denoter>通往世界杯举办城市库里蒂巴的一座桥梁以
+			<Denoter>破坏</Denoter>世界杯的阴谋。
+		</Sentence>
+		<Sentence>
+			报道说，
+			<Participant>巴西联邦监狱系统</Participant>
+			<Time>去年9月</Time>对犯罪集团[UNK]首都第一司令部[UNK]服刑人员对话进行了
+			<Denoter>监听</Denoter>，发现两名犯人在讨论
+			<Denoter>炸毁</Denoter>连接
+			<Location>库里蒂巴和圣保罗两座城市间116号国道上一座桥梁</Location>的计划，并将
+			<Object>监听内容</Object>汇报给了巴西司法部，司法部立即
+			<Denoter>通知</Denoter>
+			<Location>库里蒂巴所在的帕拉纳州</Location>公共安全和司法局。
+		</Sentence>
+	</Content>
+</Body>

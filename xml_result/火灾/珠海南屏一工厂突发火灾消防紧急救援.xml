@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2013年11月04日上午11时</Time>，位于
+			<Location>珠海南屏北山东桥工业区附件的旧工厂大厦</Location>冒起滚滚浓烟突发大火，
+			<Participant>多名工人</Participant>
+			<Denoter>被困</Denoter>楼顶，事发后
+			<Participant>消防官兵</Participant>第一时间
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>，进行
+			<Denoter>援救</Denoter>，具体
+			<Object>起火原因</Object>正在进一步
+			<Denoter>调查</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

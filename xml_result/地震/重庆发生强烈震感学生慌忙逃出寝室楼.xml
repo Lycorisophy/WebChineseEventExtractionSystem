@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2008年5月12日，北京时间14点28分</Time>，
+			<Location>重庆市合川区</Location>发生强烈
+			<Denoter>震感</Denoter>，
+			<Object>房子</Object>摇晃，室内东西倾倒，震感持续时间达5分钟。
+		</Sentence>
+		<Sentence>
+			<Object>通讯</Object>全部
+			<Denoter>中断</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>西南大学育才学院众多学生</Participant>正在午睡，
+			<Participant>许多学生</Participant>没穿衣服逃出寝室。
+		</Sentence>
+	</Content>
+</Body>

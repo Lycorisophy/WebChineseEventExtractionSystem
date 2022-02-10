@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2002年12月2日</Time>：
+			<Location>哈特考帕火车站</Location>外的
+			<Object>一辆公共汽车</Object>
+			<Denoter>爆炸</Denoter>，造成
+			<Participant>2人</Participant>
+			<Denoter>死亡</Denoter>31人受伤。
+		</Sentence>
+		<Sentence>
+			<Denoter>爆炸</Denoter>使
+			<Object>公共汽车</Object>尾部严重
+			<Denoter>受损</Denoter>。
+		</Sentence>
+		<Sentence>
+			这次
+			<Denoter>爆炸</Denoter>怀疑是印度伊斯兰学生运动(sim##i)主谋的。
+		</Sentence>
+	</Content>
+</Body>

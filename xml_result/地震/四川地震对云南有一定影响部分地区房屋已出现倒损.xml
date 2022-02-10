@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>昆明</Location>
+			<Time>5月12日电12日</Time>，四川发生地震后，对云南的昭通等地造成一定影响，
+			<Object>部分房屋</Object>已出现倒损。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>云南省地震局监测预报处处长吴国华</Participant>
+			<Denoter>介绍</Denoter>，当天四川地震震中距离云南昆明大约有660公里，距离滇东北与四川交界最近处有270公里左右。
+		</Sentence>
+		<Sentence>
+			这次
+			<Denoter>地震</Denoter>，对昭通影响较大，昆明的市民普遍有震感，但没有太多影响。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>在昭通市现场感觉到震感很强烈，持续时间有
+			<Time>几分钟</Time>，
+			<Participant>记者</Participant>了解到，到当
+			<Time>日16时许</Time>，昭通市尚未有
+			<Participant>人员</Participant>
+			<Denoter>伤亡</Denoter>报告。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>昭通市地震局局长徐家金</Participant>介绍，昭通震感非常强烈，当时有的房屋左右
+			<Denoter>晃动</Denoter>，
+			<Location>公园水池</Location>里的水被震荡起来，有几分钟电话全部
+			<Denoter>中断</Denoter>，还有一些老房子已经垮了。
+		</Sentence>
+	</Content>
+</Body>

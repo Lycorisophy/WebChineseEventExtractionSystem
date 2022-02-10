@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>联合国
+			<Time>３月１８日电</Time>（记者倪红梅王雷）联合国安理会１８
+			<Time>日</Time>发表媒体声明，以最强烈的言辞
+			<Denoter>谴责</Denoter>当天发生在
+			<Location>阿富汗法里亚布省</Location>、造成多人伤亡的恐怖
+			<Denoter>袭击</Denoter>，要求将制造袭击者绳之以法。
+		</Sentence>
+		<Sentence>
+			<Participant>安理会</Participant>重申，任何恐怖主义行动都不能
+			<Denoter>逆转</Denoter>阿富汗人主导的，在阿富汗实现和平、民主和稳定的道路，这一道路得到阿富汗人民、政府及国际社会的支持。
+		</Sentence>
+		<Sentence>
+			<Location>阿富汗北部法里亚布省</Location>
+			<Time>１８日</Time>发生一起自杀式爆炸袭击，造成
+			<Participant>１５名平民</Participant>死亡、２０人受伤。
+		</Sentence>
+	</Content>
+</Body>

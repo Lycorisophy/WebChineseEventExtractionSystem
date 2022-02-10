@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中国网</Participant>
+			<Time>4月11日</Time>讯据俄新网消息，
+			<Participant>俄联邦安全局局长博尔特尼科夫</Participant>
+			<Time>周四（4月10日</Time>）表示，俄安全局和一些列其它国家
+			<Denoter>制止</Denoter>了针对索契奥运设施实施的恐
+			<Denoter>怖袭击</Denoter>，包括使用自杀式炸弹爆炸。
+		</Sentence>
+		<Sentence>
+			<Participant>博尔特尼科夫</Participant>表示，正因为担心冬奥会期间会对飞往索契航班实施
+			<Denoter>恐怖袭击</Denoter>，所有才不允许
+			<Denoter>携带</Denoter>液体。
+		</Sentence>
+		<Sentence>
+			他	o称	o，	o[UNK]	o一	o切	o都	o是	o有	o根	o据	o和	o计	o划	o的	o，	o因	o为	o恐	o怖	o分	o子	o使	o用	o过	o或	o者	o想	o使	o用	o引	o爆	o炸	o药	o的	o媒	o介	o之	o一	o，	o正	o是	o特	o别	o液	o体	o[UNK]	o。	o
+		</Sentence>
+	</Content>
+</Body>

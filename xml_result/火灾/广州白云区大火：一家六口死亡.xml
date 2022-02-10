@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2014年1月12日</Time>
+			<Location>广州白云区</Location>发生
+			<Denoter>火灾</Denoter>：
+			<Location>一栋6层民宅的1楼</Location>发生大火，惠州来广州打工的
+			<Object>一家6口</Object>全部在火灾中不幸
+			<Denoter>死亡</Denoter>，只有家里的
+			<Object>小花猫</Object>
+			<Denoter>存活</Denoter>下来。
+		</Sentence>
+		<Sentence>
+			具体的
+			<Object>起火原因</Object>还在进一步
+			<Denoter>调查</Denoter>！
+		</Sentence>
+		<Sentence>
+			<Participant>广州警方</Participant>表示，
+			<Time>昨日凌晨4时16分</Time>，119接报称在
+			<Location>三元里大道沙涌北村涌南街一巷19号一栋6层民宅</Location>的1楼发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>4时50分</Time>，
+			<Object>明火</Object>被全部
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			经初步核查，现场6人均因
+			<Denoter>烟熏</Denoter>致死(何某某，男，43岁，广东五华人;卓某某，女，40岁，广东五华人;及四名子女)。
+		</Sentence>
+		<Sentence>
+			过火面积及
+			<Object>起火原因</Object>正在进一步
+			<Denoter>调查</Denoter>中。
+		</Sentence>
+	</Content>
+</Body>

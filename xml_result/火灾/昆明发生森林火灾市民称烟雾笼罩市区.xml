@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网昆明4</Participant>
+			<Time>月16日</Time>电(记者史广林)16
+			<Time>日下午</Time>，
+			<Location>昆明市西山区棋台山</Location>发生
+			<Denoter>森林火</Denoter>灾，目前火势较大。
+		</Sentence>
+		<Sentence>
+			<Time>当日16时许</Time>，
+			<Location>昆明市城区西边</Location>突然
+			<Denoter>升起</Denoter>一团浓烟。
+		</Sentence>
+		<Sentence>
+			住在主城区的
+			<Participant>一位市民</Participant>称，[UNK]浓烟遮天蔽日，
+			<Denoter>笼罩</Denoter>了市区大半个天空。[UNK]
+		</Sentence>
+	</Content>
+</Body>

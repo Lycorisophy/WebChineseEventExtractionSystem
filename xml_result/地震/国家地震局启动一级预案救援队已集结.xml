@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>北京</Location>
+			<Time>5月12日电</Time>
+			<Participant>中国地震局新闻发言人张宏卫</Participant>
+			<Time>12日下午</Time>
+			<Denoter>通报</Denoter>，针对四川汶川地震，中国地震局已启动一级预案，一支180人的
+			<Participant>救援队</Participant>已经
+			<Denoter>集结</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>国家地震台网</Participant>
+			<Denoter>测定</Denoter>，
+			<Time>12日14时48分</Time>，
+			<Location>四川省汶川县（温江西北55公里，</Location>北纬31．0度，东经103．4度）发生7．8级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>中国地震局新闻发言人张宏卫</Participant>说，此次
+			<Denoter>地震</Denoter>强度大，波及面广。
+		</Sentence>
+		<Sentence>
+			最新测得的震级为7．8级，宁夏、青海、甘肃、河南、山西、陕西、山东、云南、湖南、湖北、上海、重庆等省市均有
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>张宏卫</Participant>说，
+			<Participant>中国地震局</Participant>已启动一级预案，一支180的
+			<Participant>救援队伍</Participant>已经集结，准备开往灾区投入
+			<Denoter>救援</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

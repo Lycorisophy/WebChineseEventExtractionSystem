@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>1日晚</Time>，
+			<Participant>一伙歹徒</Participant>
+			<Denoter>持械</Denoter>在
+			<Location>昆明火车站</Location>
+			<Denoter>砍杀</Denoter>路人。
+		</Sentence>
+		<Sentence>
+			官方
+			<Denoter>证实</Denoter>，
+			<Time>截至2日零时许</Time>已造成
+			<Participant>27人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>一百多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

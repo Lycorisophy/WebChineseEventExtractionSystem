@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>城市晚报四平讯</Participant>
+			<Time>3月29日早</Time>，位于
+			<Location>四平市铁东区南一纬与南二纬路之间南八经街的一家水暖器材商店</Location>发生火灾，
+			<Participant>消防官兵</Participant>到达现场后，很快将火
+			<Denoter>扑灭</Denoter>，成功
+			<Denoter>救出</Denoter>
+			<Participant>四名被困人员</Participant>。
+		</Sentence>
+		<Sentence>
+			<Object>火灾</Object>发生在
+			<Time>当日早</Time>，119指挥中心接警时间是
+			<Time>6点57分</Time>，
+			<Denoter>失火</Denoter>的是
+			<Location>梓祥水暖器材商店，位置在铁东区富仁缘小区七号楼门市房</Location>，火是从一楼着起的，有
+			<Participant>四个人</Participant>被困在二楼，其中有一个三四岁的
+			<Participant>小女孩</Participant>
+			<Denoter>。</Denoter>
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>赶到现场时，
+			<Object>明火</Object>已被
+			<Participant>消防官兵</Participant>
+			<Denoter>扑灭</Denoter>，
+			<Participant>一位消防战士</Participant>正在用专业器具
+			<Denoter>破拆</Denoter>二楼窗户上的防盗网。
+		</Sentence>
+		<Sentence>
+			<Object>防盗网</Object>被
+			<Denoter>拆开</Denoter>后，
+			<Participant>消防战士</Participant>
+			<Denoter>进入</Denoter>
+			<Location>屋内</Location>，首先将
+			<Participant>小女孩</Participant>
+			<Denoter>救出</Denoter>，随后，
+			<Participant>一对老年夫妇和一名中年男子</Participant>从消防二节拉梯上逃了出来。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>那名老年妇女</Participant>讲，火灾是由于她家人早上
+			<Denoter>做饭</Denoter>时，使用液化石油气罐不慎造成的，若不是消防队员们来得快，后果可就不敢想了。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>记者</Participant>从甘肃省地震局获悉，受四川汶川强烈
+			<Denoter>地震</Denoter>影响，
+			<Location>甘肃中东部地区</Location>普遍有感。
+		</Sentence>
+		<Sentence>
+			<Participant>庆阳市宁县中村乡一位农民</Participant>说，震感很强烈，放在院子里的一桶水，受地面摇动影响，桶水泼洒了一半，
+			<Participant>群众</Participant>纷纷
+			<Denoter>离家</Denoter>在空旷处
+			<Denoter>躲避</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>西峰区</Location>也有强烈
+			<Denoter>震感</Denoter>，
+			<Participant>很多群众</Participant>离家到
+			<Location>大街上</Location>
+			<Denoter>躲避</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

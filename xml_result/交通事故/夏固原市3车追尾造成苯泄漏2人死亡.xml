@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中广网</Participant>
+			<Location>银川</Location>
+			<Time>11月29日</Time>
+			<Denoter>消息</Denoter>(记者许新霞通讯员韩鹏)宁夏固原因受雨夹雪天气影响，上午约九时左右，
+			<Location>312国道固原汽车站附近路段</Location>，
+			<Object>三辆车</Object>发生连环相撞事故，造成
+			<Participant>两人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>现场救援人员</Participant>
+			<Denoter>介绍</Denoter>，
+			<Denoter>相撞</Denoter>的三辆车中，第一辆车是停靠路边修理中的中巴客车，中间一辆是装有化学危险品苯的槽车。
+		</Sentence>
+		<Sentence>
+			剧烈
+			<Denoter>撞击</Denoter>造成苯
+			<Denoter>泄漏</Denoter>、并起火，
+			<Denoter>引燃</Denoter>了前面的
+			<Object>中巴车</Object>。
+		</Sentence>
+		<Sentence>
+			后面一辆装有
+			<Object>大米的货车</Object>车头起火，严重
+			<Denoter>变形</Denoter>，货车驾驶位和副驾驶位两人
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>消防官兵</Participant>通过冷却、稀释等方法紧急
+			<Denoter>处理</Denoter>，已经将
+			<Object>明火</Object>
+			<Denoter>扑灭</Denoter>，
+			<Denoter>控制</Denoter>住了苯泄漏带来的危害。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Object>路政吊车</Object>正在对事故车辆进行清障
+			<Denoter>处理</Denoter>因为事故路段距离居民点较远，没有引起人员
+			<Denoter>恐慌</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

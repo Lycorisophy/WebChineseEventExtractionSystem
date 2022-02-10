@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2月6日上午8时40分左右</Time>，
+			<Location>俄罗斯首都莫斯科一辆地铁列车</Location>刚驶出站不远，第二节车厢突然发生爆炸，列车随后燃起大火，造成大约
+			<Participant>50人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>130多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>爆炸</Denoter>发生后，
+			<Participant>俄罗斯政府</Participant>
+			<Denoter>宣布</Denoter>，这是一起车臣非法武装制造的自杀性
+			<Denoter>爆炸</Denoter>事件。
+		</Sentence>
+	</Content>
+</Body>

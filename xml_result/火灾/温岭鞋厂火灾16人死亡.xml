@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>1月14日14时52分</Time>，
+			<Location>浙江温岭市城北街道杨家渭村台州大东鞋厂</Location>发生
+			<Denoter>火灾</Denoter>，经公安消防等部门全力
+			<Denoter>扑救</Denoter>，
+			<Object>大火</Object>在
+			<Time>17时40分</Time>被
+			<Denoter>扑灭</Denoter>，目前已经造成
+			<Participant>16人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Location>现场</Location>
+			<Denoter>救出</Denoter>
+			<Participant>20多名职工</Participant>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>
+			<Participant>温岭市第一人民医院</Participant>己
+			<Denoter>收治</Denoter>5名伤员，其中4人为呼吸道灼伤，一人为骨折，所有伤员情况稳定，没有
+			<Denoter>生命危险</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

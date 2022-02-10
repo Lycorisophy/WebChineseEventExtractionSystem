@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网快讯</Participant>：
+			<Participant>民政部</Participant>说，
+			<Time>截至18时</Time>统计，
+			<Location>四川省汶川县</Location>7.8级
+			<Denoter>地震</Denoter>已造成四川、甘肃、重庆、云南等地107人
+			<Denoter>死亡</Denoter>，
+			<Participant>34人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>12月26日凌晨</Time>，
+			<Location>吴江区盛泽镇心开弄一幢住宅楼</Location>
+			<Denoter>着火</Denoter>，且火势很猛，有蔓延的趋势。
+		</Sentence>
+		<Sentence>
+			接到报警后，
+			<Participant>盛泽公安分局治安巡逻队的队员</Participant>们立即第一时间
+			<Denoter>赶至</Denoter>
+			<Location>现场</Location>，
+			<Participant>其他队员</Participant>也纷纷赶来
+			<Denoter>支援</Denoter>。
+		</Sentence>
+		<Sentence>
+			由于这是一个老住宅区，附近都是老房子，有的甚至是木质房，当队员赶到时，熊熊的大火已经将
+			<Location>3间屋子</Location>
+			<Denoter>吞噬</Denoter>，瓦片和椽木全都
+			<Denoter>掉落</Denoter>下来，还能听到[UNK]砰[UNK]的一声巨响，顿时火光四射。
+		</Sentence>
+	</Content>
+</Body>

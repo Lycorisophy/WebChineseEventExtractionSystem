@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网莫斯科３</Participant>
+			<Time>月３##１日</Time>
+			<Denoter>电</Denoter>（记者曹妍）
+			<Location>俄罗斯西伯利亚西部秋明州一座私人住宅</Location>
+			<Time>３月３##１日</Time>因天然气罐爆炸而起火，导致
+			<Participant>７人</Participant>
+			<Denoter>死亡</Denoter>，其中包括
+			<Participant>５名儿童</Participant>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>国际文传电讯社</Participant>报道，
+			<Location>秋明州卡斯马卡瓦村一幢单层小木屋</Location>
+			<Time>３##１日凌晨</Time>发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>大火</Object>被
+			<Denoter>扑灭</Denoter>后，在烧毁房屋中
+			<Denoter>发现</Denoter>
+			<Object>７具尸体</Object>，其中包括５名不满１０岁的儿童。
+		</Sentence>
+		<Sentence>
+			此外，
+			<Object>火灾</Object>还导致
+			<Participant>２名女性</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

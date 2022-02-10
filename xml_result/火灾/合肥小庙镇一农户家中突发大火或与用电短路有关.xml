@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>5月4日上午十点多</Time>，
+			<Location>合肥小庙镇周章村一农户家中</Location>突发
+			<Denoter>大火</Denoter>，幸好在周边邻居的帮忙下将火
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>致使
+			<Participant>农户家</Participant>
+			<Denoter>损失</Denoter>
+			<Object>两万元钱</Object>。
+		</Sentence>
+	</Content>
+</Body>

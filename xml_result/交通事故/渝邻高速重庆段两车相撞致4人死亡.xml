@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新社</Participant>
+			<Location>重庆</Location>
+			<Time>四月十二日</Time>电(
+			<Participant>郭晋嘉蒋旭)记者</Participant>
+			<Time>今日</Time>在
+			<Participant>重庆市消防总队</Participant>
+			<Denoter>证实</Denoter>，
+			<Time>四月十一日晚</Time>，
+			<Location>渝邻高速重庆段</Location>
+			<Object>一辆小轿车与货车</Object>
+			<Denoter>相撞</Denoter>，
+			<Object>小轿车</Object>起火燃烧，致
+			<Participant>四人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>出事货车驾驶员</Participant>
+			<Denoter>介绍</Denoter>，
+			<Time>当日晚上二十一时零四分</Time>，他驾驶车牌号为渝b二三九四七的大货车从四川邻水驶往重庆方向。
+		</Sentence>
+		<Sentence>
+			当车行至到
+			<Location>重庆大湾收费站两公里处</Location>时，
+			<Object>一辆车牌</Object>号为渝a##w八一七七的
+			<Object>福克斯小轿车</Object>从后面飞驰撞上货车尾部。
+		</Sentence>
+		<Sentence>
+			当他把车停到路边准备下车救人时，只听[UNK]轰[UNK]的一声，
+			<Object>小轿车</Object>前部顿时
+			<Denoter>燃烧</Denoter>起来。
+		</Sentence>
+		<Sentence>
+			<Time>据悉</Time>，此次事故共造成小轿车上
+			<Participant>三名男乘客</Participant>和一名女乘客
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

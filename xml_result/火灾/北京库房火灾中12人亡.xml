@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>据
+			<Participant>北京市公安局</Participant>官方微博[UNK]平安北京[UNK]最新消息，
+			<Time>昨日凌晨2时许</Time>，
+			<Participant>警方</Participant>在
+			<Location>小武基村火灾现场</Location>又
+			<Denoter>找到</Denoter>一名遇难群众。
+		</Sentence>
+		<Sentence>
+			<Time>截至目前</Time>，
+			<Object>火灾</Object>已造成
+			<Participant>12人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>11月19日20时30分许</Time>，
+			<Location>北京市朝阳区小武基村一库房</Location>、着火。
+		</Sentence>
+		<Sentence>
+			接报警后，
+			<Participant>北京市公安局</Participant>先后
+			<Denoter>调集</Denoter>13个消防中队、54辆消防车
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>开展灭火工作。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，火已完全
+			<Denoter>扑灭</Denoter>，过火面积约500平方米。
+		</Sentence>
+	</Content>
+</Body>

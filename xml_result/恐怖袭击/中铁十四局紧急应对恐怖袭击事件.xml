@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>6月10日晚11时</Time>，
+			<Participant>记者</Participant>在位于
+			<Location>山东济南的中铁十四局办公大楼</Location>前
+			<Denoter>看到</Denoter>，办公楼的大门紧闭，院子的围栏上悬挂着
+			<Denoter>悼念</Denoter>在阿遇难员工的布幅，办公楼2楼的灯光很亮。
+		</Sentence>
+		<Sentence>
+			<Location>阿富汗当地</Location>
+			<Time>时间6月10日凌晨</Time>，中国中铁十四局集团公司援建
+			<Location>阿富汗的公路建设项目盖劳盖尔工地</Location>遭到一伙武装分子的
+			<Denoter>袭击</Denoter>，造成
+			<Participant>11名中国工人</Participant>死亡，另有
+			<Participant>4名工人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

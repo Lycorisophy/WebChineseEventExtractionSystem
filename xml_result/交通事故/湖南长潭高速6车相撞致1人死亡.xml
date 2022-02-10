@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Time>4月7日</Time>电据中国消防在线消息，
+			<Time>4月4日晚上7时30分左右</Time>，
+			<Location>湖南长潭高速公路</Location>上发生一起6车连环相撞失火事故。
+		</Sentence>
+		<Sentence>
+			<Participant>长株潭三地消防部门</Participant>共
+			<Denoter>出动</Denoter>消防车21台，
+			<Participant>警力100余人</Participant>。
+		</Sentence>
+		<Sentence>
+			经过
+			<Participant>消防官兵</Participant>
+			<Time>近2个小时</Time>奋力
+			<Denoter>扑救</Denoter>，
+			<Object>大火</Object>被成功
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

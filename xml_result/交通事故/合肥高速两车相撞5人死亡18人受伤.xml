@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>合肥</Location>
+			<Time>10月8日</Time>电（记者程士华）记者从合肥市交警部门
+			<Denoter>获悉</Denoter>，
+			<Time>8日凌晨</Time>，
+			<Location>合（合肥）宁（南京）高速公路上</Location>
+			<Object>一辆货车</Object>与一辆大客车
+			<Denoter>相撞</Denoter>，截至记者发稿时，这起事故已造成
+			<Participant>5人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>18人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			据处理事故的
+			<Participant>合肥市交警支队高速公路一大队交警</Participant>
+			<Denoter>介绍</Denoter>，
+			<Time>10月8日凌晨2时许</Time>，一辆挂着江苏牌照的大货车，在行经
+			<Location>合宁高速公路（合肥－南京）15##ｋ##ｍ##＋##600##ｍ处</Location>时，与来自河南省信阳市的
+			<Object>一辆大客车</Object>
+			<Denoter>相撞</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生地点位于
+			<Location>合肥市境内，</Location>
+			<Time>目前</Time>已造成
+			<Participant>5人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>18人</Participant>不同程度受伤。
+		</Sentence>
+		<Sentence>
+			合肥市委、市政府高度
+			<Denoter>重视</Denoter>，
+			<Participant>市政府分管领导率市公安、安监、卫生等部门主要负责人</Participant>于第一时间
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>，部署
+			<Denoter>指挥</Denoter>
+			<Object>救援工作</Object>，并到医院
+			<Denoter>看望</Denoter>事故中受伤人员。
+		</Sentence>
+	</Content>
+</Body>

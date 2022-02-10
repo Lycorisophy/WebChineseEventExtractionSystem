@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>温州网讯</Participant>
+			<Time>昨天凌晨</Time>，
+			<Location>瑞安市飞云镇南港村，温州浙南汽车设备回收有限公司瑞安分公司停车场内</Location>突发火灾，
+			<Object>200多辆废旧摩托车与废旧汽车</Object>被
+			<Denoter>烧毁</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>昨天下午</Time>，
+			<Location>温州浙南汽车设备回收有限公司瑞安分公司停车场</Location>，工作人员正在
+			<Denoter>核对</Denoter>烧毁的摩托车发动机编号。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>注意到，
+			<Object>数百辆摩托</Object>已被烧得只剩下空架子，
+			<Location>现场</Location>一片
+			<Denoter>狼藉</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>该公司副经理张先生</Participant>说，
+			<Location>停车场</Location>占地8000平方米，有
+			<Object>1000多辆废旧汽车与废旧摩托车</Object>。
+		</Sentence>
+		<Sentence>
+			火灾发生后，
+			<Object>200多辆废旧摩托车与30多辆废旧汽车</Object>被
+			<Denoter>烧毁</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

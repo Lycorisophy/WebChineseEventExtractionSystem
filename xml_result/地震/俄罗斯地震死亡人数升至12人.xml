@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社莫斯科１０</Participant>
+			<Time>月１１日电</Time>（记者高帆）
+			<Location>俄罗斯南方５个地区</Location>
+			<Time>１１日</Time>发生的
+			<Denoter>地震</Denoter>已造成
+			<Participant>１２人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>俄塔社</Participant>援引车臣共和国卫生部长
+			<Participant>阿赫玛托夫</Participant>的话
+			<Denoter>报道</Denoter>说，地震目前已造成该共和国１２人死亡，当地医院已
+			<Denoter>接收</Denoter>伤员１０##５人。
+		</Sentence>
+		<Sentence>
+			<Participant>俄罗斯紧急情况部车臣分部</Participant>提供的数据
+			<Denoter>显示</Denoter>，地震还造成该地区部分医院、超市及民房倒塌，山区多条道路
+			<Denoter>损毁</Denoter>严重。
+		</Sentence>
+		<Sentence>
+			位于俄南部的达吉斯坦、车臣、印古什、北
+			<Location>奥塞梯共和国及斯塔夫罗波尔边疆区</Location>
+			<Time>当日</Time>均发生不同程度
+			<Denoter>地震</Denoter>，震中位于车臣共和国。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>新华社电记者</Participant>从公安部获悉，3
+			<Time>月1日晚</Time>发生在
+			<Location>云南昆明火车站</Location>的严重暴力恐怖案，经公安部组织云南、新疆、铁路等公安机关和其他政法力量40余小时的连续
+			<Denoter>奋战</Denoter>，已于
+			<Time>3月3日下午</Time>成功
+			<Denoter>告破</Denoter>。
+		</Sentence>
+		<Sentence>
+			现已
+			<Denoter>查明</Denoter>，该案是以阿不都热依木・库尔班为首的暴力恐怖团伙所为。
+		</Sentence>
+		<Sentence>
+			<Participant>该团伙</Participant>共有
+			<Participant>8人</Participant>（6男2女），现场被公安机关击毙4名、击伤抓获1名（女），其余3名已落网。
+		</Sentence>
+	</Content>
+</Body>

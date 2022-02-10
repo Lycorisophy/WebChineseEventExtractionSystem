@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>人民网</Participant>
+			<Time>4月8日</Time>讯据
+			<Participant>俄新网</Participant>消息，
+			<Participant>俄罗斯联邦安全局局长博尔特尼科夫</Participant>
+			<Time>日前</Time>
+			<Denoter>表示</Denoter>，俄安全局2014年第一季度成功
+			<Denoter>阻止</Denoter>恐怖
+			<Denoter>袭击</Denoter>19起。
+		</Sentence>
+	</Content>
+</Body>

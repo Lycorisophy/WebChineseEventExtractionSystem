@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>5月12日14时28分</Time>，四川发生7.8级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>15时50分</Time>，
+			<Participant>新民网记者网上</Participant>
+			<Denoter>连线</Denoter>
+			<Participant>成都网友姚先生</Participant>。
+		</Sentence>
+		<Sentence>
+			<Participant>姚先生</Participant>当时正在成都市武侯区的办公室打电话，突然感觉
+			<Object>电脑显示器</Object>晃得很厉害，便
+			<Denoter>丢下</Denoter>电话、抓起手机和钱包往外跑，手里还拿着
+			<Object>无绳电话子机</Object>，准备给远在江苏的家人
+			<Denoter>打电话</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>姚先生</Participant>说坐在他旁边的女同事立刻感觉是在地震，一下子哭了起来。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>姚先生</Participant>介绍，成都市很多钢结构的房屋都有明显震感，当他和很多市民一样
+			<Denoter>疏散</Denoter>到室外时，随即发现
+			<Object>手机信号</Object>已经
+			<Denoter>中断</Denoter>，据称基站坏了。
+		</Sentence>
+		<Sentence>
+			<Denoter>疏散</Denoter>出来的
+			<Participant>人群</Participant>中，
+			<Participant>大家</Participant>都在
+			<Denoter>谈论</Denoter>唐山大地震。
+		</Sentence>
+	</Content>
+</Body>

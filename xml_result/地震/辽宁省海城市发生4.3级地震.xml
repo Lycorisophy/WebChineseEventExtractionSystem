@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>国家地震台网</Participant>
+			<Denoter>测定</Denoter>，
+			<Time>北京时间2008年11月14日06时53分</Time>，在
+			<Location>辽宁省海城市</Location>(北纬40.6度，东经122.9度)发生4.3级
+			<Denoter>地震</Denoter>，震源深度约10公里。
+		</Sentence>
+		<Sentence>
+			<Location>震中距海城市区</Location>33公里，距鞍山市区57公里，距沈阳市区146公里。
+		</Sentence>
+	</Content>
+</Body>

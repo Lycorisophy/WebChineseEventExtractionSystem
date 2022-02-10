@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Location>南欧各国</Location>由于夏季高温，各地森林大火频传，数以千计的
+			<Participant>消防人员</Participant>全力
+			<Denoter>抢救</Denoter>，试图
+			<Denoter>控制</Denoter>火势。
+		</Sentence>
+		<Sentence>
+			在
+			<Location>西班牙、法国、希腊、及意大利南部[UNK]萨丁尼亚岛[UNK]的山林</Location>
+			<Denoter>火灾</Denoter>至少造成
+			<Participant>八人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			其中
+			<Object>西班牙的受灾情况</Object>最严重。
+		</Sentence>
+		<Sentence>
+			<Participant>西班牙在</Participant>
+			<Time>过去的四天里</Time>，已经有
+			<Participant>六名消防人员</Participant>
+			<Denoter>殉职</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>前晚7时30分许</Time>，
+			<Location>通州西集镇郎府卫生院西侧路口</Location>，
+			<Object>一辆轿车</Object>冲下路基,撞倒多名路人、撞穿一间民房外墙后停下。
+		</Sentence>
+		<Sentence>
+			事故致
+			<Participant>一名3岁男童</Participant>当场
+			<Denoter>死亡</Denoter>，
+			<Participant>一名15岁少年</Participant>送医后不治身亡，另有
+			<Participant>3人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>附近居民</Participant>称，
+			<Location>肇事车</Location>
+			<Time>当时</Time>左右
+			<Denoter>摇摆</Denoter>如蛇行，
+			<Participant>司机</Participant>被
+			<Denoter>救出</Denoter>时浑身酒气。
+		</Sentence>
+	</Content>
+</Body>

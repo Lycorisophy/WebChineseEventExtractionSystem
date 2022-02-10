@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2008年4月5日上午10时</Time>，
+			<Location>吉尔吉斯斯坦比什凯克市中国商人集中的中海市场</Location>发生大火，至下午2时火场明火基本
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			在火灾中，市场售货大楼内部设施及所存商品被
+			<Denoter>烧毁</Denoter>，大楼主体结构受损严重，所幸无人员伤亡。
+		</Sentence>
+		<Sentence>
+			获悉此事后，中国驻吉使馆迅速
+			<Denoter>启动</Denoter>
+			<Object>应急机制</Object>，
+			<Participant>张延年大使</Participant>
+			<Denoter>亲赴</Denoter>现场，敦促吉方加强对中方商铺的
+			<Denoter>保护</Denoter>，避免灾后中国商户商品被偷、被抢现象的发生；张大使还
+			<Denoter>慰问</Denoter>了市场内的
+			<Participant>中国商户</Participant>，表示将会尽力
+			<Denoter>协助</Denoter>
+			<Participant>商户</Participant>
+			<Denoter>处理</Denoter>好善后工作。
+		</Sentence>
+	</Content>
+</Body>

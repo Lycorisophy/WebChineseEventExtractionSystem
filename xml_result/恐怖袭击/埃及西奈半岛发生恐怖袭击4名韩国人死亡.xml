@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>韩联社</Participant>援引埃及当地媒体
+			<Time>16日</Time>
+			<Denoter>报道</Denoter>，
+			<Location>埃及东北部西奈半岛当</Location>
+			<Time>天</Time>发生
+			<Denoter>恐怖袭击</Denoter>事件，造成4名韩国人死亡，
+			<Participant>21人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>受伤人员</Participant>中的大部分是
+			<Participant>韩国游客</Participant>
+			<Denoter>。</Denoter>
+		</Sentence>
+		<Sentence>
+			<Time>据悉</Time>，
+			<Participant>受伤人员</Participant>已被
+			<Denoter>送往</Denoter>
+			<Location>附近的医院</Location>接受
+			<Denoter>治疗</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

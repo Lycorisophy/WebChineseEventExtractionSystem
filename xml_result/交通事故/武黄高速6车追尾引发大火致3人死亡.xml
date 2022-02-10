@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>（
+			<Participant>记者周琦谭经田通讯员高巡蔺善波实习生王维）</Participant>
+			<Time>昨日凌晨</Time>，
+			<Location>武黄高速公路武黄向57公里处</Location>发生6车追尾的交
+			<Denoter>通事故</Denoter>，剧烈
+			<Denoter>撞击</Denoter>导致车辆起火燃烧，
+			<Participant>省高管四大队、鄂州消防支队、武黄路政等部门闻警</Participant>积极进行
+			<Denoter>救援</Denoter>，迅速
+			<Denoter>恢复</Denoter>交通。
+		</Sentence>
+		<Sentence>
+			事故造成
+			<Participant>3人死亡多人</Participant>受伤，
+			<Time>目前</Time>，
+			<Participant>部分伤者</Participant>被
+			<Denoter>送到</Denoter>
+			<Location>黄石市二医院</Location>
+			<Denoter>救治</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>昨日凌晨1时58分</Time>，
+			<Participant>驾驶员李某</Participant>驾驶鄂b##x##15##xx轿车行驶至武黄向57公里处时，因前方道路堵塞，停在驾驶员徐某驾驶的
+			<Object>鄂eb##36##xx重型平板半挂货车后面</Object>。
+		</Sentence>
+		<Sentence>
+			<Time>随后</Time>，
+			<Object>一辆[UNK]鄂a2##7##xx[UNK]半挂货车</Object>从后方行车道内驶来撞上鄂b##x##15##xx轿车，半挂货车起火燃烧，并引燃其他车辆。
+		</Sentence>
+		<Sentence>
+			接警后，
+			<Participant>省高管支队四大队民警</Participant>在
+			<Time>10分钟内</Time>
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+	</Content>
+</Body>

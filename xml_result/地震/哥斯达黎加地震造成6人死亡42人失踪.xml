@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社圣何塞１</Participant>
+			<Time>月９日电</Time>（记者张源培）
+			<Location>哥斯达黎加红十字会</Location>
+			<Time>９日</Time>向新华社证实，截至当日下午１４时，８日发生的
+			<Denoter>地震</Denoter>已经造成
+			<Participant>６人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>９##１人</Participant>
+			<Denoter>受伤</Denoter>，另有
+			<Participant>４##２人</Participant>
+			<Denoter>失踪</Denoter>。
+		</Sentence>
+		<Sentence>
+			根据哥红十字会的最新
+			<Denoter>统计</Denoter>，地震造成
+			<Participant>至少２##６##４##７人</Participant>直接
+			<Denoter>受灾</Denoter>，其中
+			<Participant>１２##２##８人</Participant>无家可归。
+		</Sentence>
+		<Sentence>
+			<Participant>哥斯达黎加国家紧急情况委员会</Participant>和红十字会目前正在
+			<Location>震中附近区域</Location>展开
+			<Denoter>救援</Denoter>，并且
+			<Denoter>出动</Denoter>了
+			<Object>１０架直升机</Object>前往灾区救助被困民众。
+		</Sentence>
+		<Sentence>
+			<Location>哥斯达黎加首都圣何塞附近</Location>
+			<Time>８日</Time>发生里氏６．２级
+			<Denoter>地震</Denoter>，圣何塞市震感明显。
+		</Sentence>
+	</Content>
+</Body>

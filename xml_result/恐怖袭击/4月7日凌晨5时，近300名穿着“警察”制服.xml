@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>新华社</Participant>电,
+			<Time>4月7日凌晨5时</Time>，近300名穿着[UNK]警察[UNK]制服的不
+			<Participant>明身份人员</Participant>与近百名社会人员持棍棒、器械，袭击了
+			<Location>兰州军区五里铺干休所的军民共建项目[UNK]兰州创意国际商贸城施工工地</Location>，造成
+			<Participant>70余名农民工</Participant>不同程度受伤，其中
+			<Participant>3人</Participant>正在
+			<Location>重症监护室</Location>
+			<Denoter>抢救</Denoter>，
+			<Object>有关财物损失</Object>还在统计当中。
+		</Sentence>
+		<Sentence>
+			<Participant>警方</Participant>目前已经
+			<Denoter>刑拘</Denoter>3名涉案人员。
+		</Sentence>
+		<Sentence>
+			<Participant>工地施工方法人代表李某</Participant>告诉记者，
+			<Time>当日凌晨5时左右</Time>，一伙身着配有肩章、臂章制式服装，并头戴钢盔的男子要求
+			<Denoter>进入</Denoter>
+			<Location>施工现场</Location>，
+			<Participant>门卫</Participant>误以为其是公安人员办案，但随后却遭到这伙人的
+			<Denoter>殴打</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>进入</Denoter>
+			<Location>工地</Location>后，
+			<Participant>这些人</Participant>对
+			<Location>工地宿舍内</Location>正在睡觉的
+			<Participant>工人</Participant>强行
+			<Denoter>驱离</Denoter>，期间致使
+			<Participant>多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Participant>甘肃省兰州市公安局与城关区分局</Participant>已成立联合专案组，对此次暴力事件进行
+			<Denoter>调查</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

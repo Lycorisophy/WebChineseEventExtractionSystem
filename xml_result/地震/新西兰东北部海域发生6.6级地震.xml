@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>惠灵顿</Location>
+			<Time>２月２日</Time>电（记者黄兴伟）据美国地质勘探局地震信息网消息，
+			<Location>新西兰东北部海域</Location>
+			<Time>２日</Time>发生６．６级
+			<Denoter>地震</Denoter>，
+			<Denoter>地震</Denoter>未造成人员伤亡或财产损失。
+		</Sentence>
+		<Sentence>
+			<Denoter>地震</Denoter>发生在
+			<Location>新西兰当地</Location>
+			<Time>时间２日晚２##２时２##６分</Time>（北京时间１##７时２##６分）。
+		</Sentence>
+		<Sentence>
+			震中位于
+			<Location>新西兰莱斯佩朗斯礁东南方向１##９##２公里处海域，即新西兰北岛北部海滨城镇瓦卡塔尼东北７##０##５公里处海域</Location>，震源深度为１３##９公里。
+		</Sentence>
+	</Content>
+</Body>

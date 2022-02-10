@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>昨天下午1点多</Time>，
+			<Location>101国道密云县庄头峪村附近路段</Location>上，一辆开往承德、载有20多名乘客的依维柯车与一辆拉矿石的农用车相撞，事故还殃及一辆捷达轿车,事故共造成
+			<Participant>6人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>3人</Participant>
+			<Denoter>重伤</Denoter>，14人轻微伤。
+		</Sentence>
+		<Sentence>
+			<Time>事发后</Time>，
+			<Participant>市领导及相关单位负责人</Participant>
+			<Denoter>赶往</Denoter>
+			<Location>现场</Location>指挥
+			<Denoter>救援</Denoter>，并
+			<Denoter>前往</Denoter>
+			<Location>医院</Location>
+			<Denoter>探望</Denoter>伤者。
+		</Sentence>
+	</Content>
+</Body>

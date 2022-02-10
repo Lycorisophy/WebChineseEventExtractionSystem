@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2014年4月29日</Time>，
+			<Location>四川德阳绵竹市新市镇的龙蟒集团</Location>一生产硫酸亚铁的车间发生火灾，
+			<Participant>12台消防车和30多名官兵</Participant>
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>救火。
+		</Sentence>
+		<Sentence>
+			经初步
+			<Denoter>调查</Denoter>，过火面积约800平方米，燃烧物质主要为pp管、电缆、橡胶皮带、机电设备等物质。
+		</Sentence>
+	</Content>
+</Body>

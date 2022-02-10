@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2014年1月7日</Time>，
+			<Location>广州番禺市桥街兴泰路一家已经关门的商铺</Location>发生
+			<Denoter>火灾</Denoter>，一名27岁的从化女子，被不幸
+			<Denoter>烧死</Denoter>！
+		</Sentence>
+		<Sentence>
+			<Object>起火商铺</Object>为
+			<Object>一家瓶装水店</Object>，
+			<Location>现场</Location>
+			<Denoter>过火</Denoter>面积约50平方米。
+		</Sentence>
+		<Sentence>
+			<Participant>广州番禺警方</Participant>
+			<Time>今天(1月8日</Time>)向媒体
+			<Denoter>通报</Denoter>：
+			<Time>1月7日晚21时40分</Time>许，
+			<Participant>警方</Participant>接群众报警，称
+			<Location>市桥街兴泰路一已关门的商铺</Location>内
+			<Denoter>冒出</Denoter>
+			<Object>浓烟</Object>。
+		</Sentence>
+	</Content>
+</Body>

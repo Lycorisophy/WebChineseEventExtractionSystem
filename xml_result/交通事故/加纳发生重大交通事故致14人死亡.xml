@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>阿克拉</Location>
+			<Time>１２月３０日</Time>电（记者林晓蔚）加纳中部省
+			<Time>３０日中午</Time>发生一起３辆车相撞的严重交通事故，已
+			<Denoter>确认</Denoter>１４人
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>当地媒体</Participant>报道，事故发生在
+			<Location>加纳中部省一个名为安塔多的小村庄附近，距首都阿克拉约１##７##０公里。</Location>
+		</Sentence>
+		<Sentence>
+			<Time>当时</Time>
+			<Object>一辆重型卡车</Object>因爆胎失控，撞向
+			<Object>一辆奔驰小型巴士</Object>，巴士上
+			<Denoter>载有</Denoter>至少２##３名乘客。
+		</Sentence>
+		<Sentence>
+			连带被撞的还有
+			<Object>一辆丰田皮卡</Object>，但皮卡车内
+			<Participant>乘客</Participant>均幸免
+			<Denoter>遇难</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>圣诞节和新年</Time>是加纳的车祸高发期，因外出旅行的家庭较多。
+		</Sentence>
+	</Content>
+</Body>

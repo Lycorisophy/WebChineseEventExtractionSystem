@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			年初发生的
+			<Location>澳大利亚森林</Location>大火给人们造成的伤痛还未退却，
+			<Location>欧洲地中海沿岸5国意大利、西班牙、法国、希腊和克罗地亚</Location>
+			<Time>近期</Time>又发生多起山林火灾，目前已经造成巨大财产
+			<Denoter>损失</Denoter>。
+		</Sentence>
+		<Sentence>
+			总部设在罗马的
+			<Participant>联合国粮农组织</Participant>
+			<Time>27日</Time>发出呼吁，频频发生的火灾已成为人类面临的一大重要威胁，各国有必要
+			<Denoter>加强</Denoter>
+			<Object>火灾早期预警及监控机制</Object>的
+			<Denoter>建立</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>近期</Time>发生在
+			<Location>意大利、西班牙、法国、希腊和克罗地亚等地中海沿岸国家的山林</Location>
+			<Denoter>大火</Denoter>目前已造成8人死亡，
+			<Object>数万公顷农田</Object>被
+			<Denoter>烧毁</Denoter>，财产损失可能高达数亿欧元。
+		</Sentence>
+		<Sentence>
+			在
+			<Location>意大利撒丁岛，</Location>
+			<Object>火灾</Object>从24日开始蔓延至今，超过2.5万公顷田地被大火烧毁，已有
+			<Participant>2人</Participant>在火灾中丧生，
+			<Participant>数十名游客</Participant>被紧急
+			<Denoter>疏散</Denoter>，损失据估算达到8千万欧元。
+		</Sentence>
+		<Sentence>
+			在西班牙，
+			<Participant>官方</Participant>估计大约
+			<Object>2万公顷农田</Object>被
+			<Denoter>烧毁</Denoter>，
+			<Participant>6名消防队员</Participant>在救火战斗中牺牲。
+		</Sentence>
+		<Sentence>
+			除	o了	o受	o灾	o最	o重	o的	o意	o大	o利	o和	o西	o班	o牙	o，	o发	o生	o在	o法	o国	o南	o部	o的	o大	o火	o过	o火	o面	o积	o超	o过	o6	o千	o公	o顷	o，	o不	o仅	o科	o西	o嘉	o岛	o上	o发	o生	o火	o灾	o，	o马	o赛	o附	o近	o的	o大	o火	o几	o乎	o逼	o近	o市	o区	o。	o
+		</Sentence>
+		<Sentence>
+			在希腊，
+			<Object>大火</Object>主要集中在南部，
+			<Time>仅26日</Time>就出现超过50处火情，
+			<Participant>希腊政府</Participant>已在全国发布火灾警告。
+		</Sentence>
+	</Content>
+</Body>

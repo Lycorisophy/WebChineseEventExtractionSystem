@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2008年5月12日14时27分57.9秒</Time>，在
+			<Location>汶川县漩口和卧龙</Location>之间发生了7.8级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>原震中</Location>处发生
+			<Denoter>余震</Denoter>：
+			<Time>14时43分</Time>15.1秒发生6.0级余震；15时34分47.8秒发生5.0级余震；16时08分48秒发生4.4级余震。
+		</Sentence>
+		<Sentence>
+			<Participant>州人民政府</Participant>
+			<Denoter>启动</Denoter>了
+			<Object>地震应急预案</Object>。
+		</Sentence>
+		<Sentence>
+			<Object>全州防震减灾系统</Object>
+			<Denoter>启动</Denoter>了
+			<Object>地震应急预案</Object>。
+		</Sentence>
+		<Sentence>
+			<Time>截止16点30分</Time>的
+			<Object>情况</Object>为：震中区交通通讯中断。
+		</Sentence>
+	</Content>
+</Body>

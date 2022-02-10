@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>4月15日上午十点左右</Time>，
+			<Location>位于闹市区的一栋老式别墅</Location>发生一起
+			<Denoter>火灾</Denoter>，
+			<Participant>一名60岁的妇女</Participant>在逃生过程中坠伤，因腿部和眼睛受伤被送医
+			<Denoter>救治</Denoter>，所幸没有
+			<Denoter>生命危险</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>发生时，
+			<Participant>多位热心市民</Participant>援手
+			<Denoter>相助</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>起火</Denoter>的是
+			<Location>小区内一栋老式洋房的三楼</Location>，
+			<Location>现场</Location>浓烟滚滚，充斥着焦糊味。
+		</Sentence>
+		<Sentence>
+			<Denoter>失火</Denoter>后，
+			<Participant>楼内居民</Participant>边报警，边开始
+			<Denoter>自救</Denoter>。
+		</Sentence>
+		<Sentence>
+			初查,
+			<Object>火灾</Object>可能是电器使用不当引发。
+		</Sentence>
+	</Content>
+</Body>

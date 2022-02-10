@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>国际在线</Participant>
+			<Denoter>报道</Denoter>（记者徐肖嵘）：
+			<Participant>中国外交部发言人秦刚4</Participant>
+			<Time>日</Time>在北京表示，中方对
+			<Location>巴基斯坦伊斯兰堡</Location>
+			<Time>3日</Time>发生的恐怖
+			<Denoter>袭击</Denoter>事件表示强烈
+			<Denoter>谴责</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>3月3日</Time>，
+			<Location>巴基斯坦首都伊斯兰堡一家法院</Location>遭到恐怖分子开枪并投掷炸弹袭击，造成11人死亡，
+			<Participant>25人</Participant>受伤。
+		</Sentence>
+		<Sentence>
+			<Time>对此</Time>，
+			<Participant>秦刚</Participant>
+			<Time>4日</Time>在记者会上表示：[UNK]我们对这一恐怖袭击事件表示强烈
+			<Denoter>谴责</Denoter>，对遇难者表示沉痛哀悼，对
+			<Participant>受伤人员</Participant>和遇难者家属致以深切
+			<Denoter>慰问</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

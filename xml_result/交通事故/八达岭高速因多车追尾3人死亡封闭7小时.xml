@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>（
+			<Participant>实习生彭科峰吴旖旎记者</Participant>任冠军）
+			<Time>昨天凌晨4点半</Time>左右，
+			<Location>八达岭高速出京方向距康庄收费站1.5公里处</Location>，5辆大货车发生
+			<Denoter>追尾</Denoter>，致
+			<Participant>3人</Participant>
+			<Denoter>死亡</Denoter>
+			<Participant>2人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			受事故影响，
+			<Location>该路段</Location>
+			<Denoter>封闭</Denoter>
+			<Time>7个多小时</Time>。
+		</Sentence>
+		<Sentence>
+			<Participant>目击者周立军</Participant>说，当时天色比较暗，高速路上由西向东行驶的汽车车速都很快。
+		</Sentence>
+		<Sentence>
+			<Location>临近康庄收费站</Location>时,一辆大货车突然减速
+			<Denoter>刹车</Denoter>，其后的多辆货车也相继刹车，造成5车追尾。
+		</Sentence>
+		<Sentence>
+			事发后，
+			<Object>汽车零件</Object>散落一地，
+			<Object>第三辆追尾货车</Object>横在马路中间，且有
+			<Denoter>漏油</Denoter>现象。
+		</Sentence>
+		<Sentence>
+			<Object>一辆拉钢管的大货车</Object>
+			<Denoter>受损</Denoter>严重，整个驾驶室被
+			<Denoter>撞瘪</Denoter>，驾驶室内的
+			<Participant>3名男子</Participant>被夹在中间无法
+			<Denoter>动弹</Denoter>，车上所载的
+			<Object>大量钢管</Object>
+			<Denoter>掉落</Denoter>地面。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Location>昆明</Location>
+			<Time>1月28日</Time>电(余雪彬)云南省西双版纳傣族自治州委宣传部证实，
+			<Time>28日20时01分</Time>，该州景洪市(北纬22.5度，东经101.1度)发生4.6级
+			<Denoter>地震</Denoter>，震源深度10千米。
+		</Sentence>
+		<Sentence>
+			<Participant>西双版纳州委宣传部副部长段金华</Participant>说，
+			<Location>震中地点位于景洪市东北69公里的普文镇，震区</Location>震感强烈，目前暂无人员伤亡和财产损失报告。
+		</Sentence>
+		<Sentence>
+			<Location>普文镇</Location>地处
+			<Location>景洪市最北部，距景洪97公里、距普洱34公里、距昆明市530公里，国道213线昆曼国际大通道</Location>横穿坝子，是内地进入西双版纳的第一门户重镇，素有[UNK]版纳北大门[UNK]之称。
+		</Sentence>
+	</Content>
+</Body>

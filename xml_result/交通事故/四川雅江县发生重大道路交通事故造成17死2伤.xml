@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网雅江11</Participant>
+			<Time>月23日</Time>电(刘忠俊)记者
+			<Time>23日晚间</Time>从四川甘孜州政府办
+			<Denoter>获悉</Denoter>，该州境内的雅江县发生一起重大
+			<Denoter>交通事故</Denoter>，已造成
+			<Participant>17人死亡2人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>雅江县政府</Participant>
+			<Denoter>报告</Denoter>，
+			<Time>23日13时35分左右</Time>，
+			<Location>雅江县恶古乡境内</Location>
+			<Object>一辆农用车</Object>车载19人，发生重大道路交通事故，致
+			<Participant>17人</Participant>死亡(其中1名小孩)，
+			<Participant>2人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>伤者</Participant>中有
+			<Participant>1人</Participant>伤势较重。
+		</Sentence>
+		<Sentence>
+			接到事故报告后，
+			<Participant>甘孜州委、州政府</Participant>立即
+			<Denoter>启动</Denoter>
+			<Object>重大交通事故应急预案</Object>，迅速成立事故调查处理工作组，
+			<Participant>相关领导率安监、公安、卫生等工作组</Participant>
+			<Denoter>赶赴</Denoter>
+			<Location>事故现场</Location>展开善后及事故
+			<Denoter>调查</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>甘孜州相关领导</Participant>要求要采取一切措施
+			<Denoter>抢救</Denoter>伤员，最大限度
+			<Denoter>减少</Denoter>伤亡，迅速开展事故调查处理工作，严厉
+			<Denoter>追究</Denoter>事故责任者。
+		</Sentence>
+	</Content>
+</Body>

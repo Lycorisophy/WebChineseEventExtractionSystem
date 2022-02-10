@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>美国《时代》周刊</Participant>
+			<Time>3月31日</Time>
+			<Denoter>报道</Denoter>，伊拉克警方日前
+			<Denoter>证实</Denoter>，伊拉克30日一座安全检查站遭遇
+			<Denoter>枪击</Denoter>，随后拉马迪市一桥梁遭自杀式汽车炸弹
+			<Denoter>袭击</Denoter>，目前这起连环
+			<Denoter>袭击</Denoter>已导致
+			<Participant>16人</Participant>
+			<Denoter>死亡</Denoter>和1座桥梁倒塌。
+		</Sentence>
+		<Sentence>
+			据报道，安检站遭袭击数
+			<Time>小时</Time>后，1名自杀式炸弹袭击者在
+			<Location>靠近伊拉克拉马迪市的1座桥梁</Location>上
+			<Denoter>引爆</Denoter>了他所驾驶的装载炸药的汽车，
+			<Denoter>爆炸</Denoter>造成
+			<Participant>5人死亡7人</Participant>受伤。
+		</Sentence>
+		<Sentence>
+			<Participant>伊拉克警方</Participant>
+			<Denoter>表示</Denoter>，
+			<Participant>部分桥体</Participant>
+			<Denoter>坠入</Denoter>了幼发拉底河。
+		</Sentence>
+		<Sentence>
+			<Location>拉马迪市</Location>位于
+			<Location>巴格达以西约115公里处</Location>。
+		</Sentence>
+	</Content>
+</Body>

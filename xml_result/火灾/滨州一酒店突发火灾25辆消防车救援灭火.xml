@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>齐鲁网讯</Participant>
+			<Time>2009年8月8日下午</Time>，滨州一正在装修的
+			<Location>格林豪泰酒店</Location>发生火灾，
+			<Participant>齐鲁电视台独家栏目组</Participant>
+			<Denoter>奔赴</Denoter>
+			<Location>滨州进行火灾的现场</Location>
+			<Denoter>报道</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>到目前为止</Time>
+			<Object>大火</Object>已经被
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			在火灾后的新闻发布会上，我们了解到，此次火灾过火面积达1500平方米，
+			<Participant>滨州消防支队</Participant>共
+			<Denoter>出动</Denoter>25辆消防车120
+			<Participant>多名消防官兵</Participant>，进行
+			<Denoter>灭火</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>疏散</Denoter>群众
+			<Participant>33名</Participant>，救出
+			<Participant>被困人员2名</Participant>。
+		</Sentence>
+		<Sentence>
+			<Time>此次</Time>
+			<Denoter>火灾</Denoter>并没有造成
+			<Participant>人员</Participant>
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

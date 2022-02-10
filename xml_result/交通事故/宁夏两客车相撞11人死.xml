@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社</Participant>
+			<Time>发当日中午12时17分</Time>，在
+			<Location>211国道宁夏盐池县惠安堡段</Location>，
+			<Object>两辆大客车</Object>发生迎面
+			<Denoter>相撞</Denoter>事故。
+		</Sentence>
+		<Sentence>
+			事故造成
+			<Participant>两车至少11人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>25人</Participant>受伤。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>
+			<Object>事故原因</Object>还在
+			<Denoter>调查</Denoter>之中。
+		</Sentence>
+	</Content>
+</Body>

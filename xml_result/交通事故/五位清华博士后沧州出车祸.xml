@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>8月23日上午9时40分</Time>，
+			<Location>京沪高速公路沧州服务区附近</Location>，一辆由北向南行驶的金杯面包车撞到高速公路护栏上，车上
+			<Participant>5名清华大学博士后研究人员及1名司机</Participant>
+			<Denoter>受伤</Denoter>，被紧急
+			<Denoter>送往</Denoter>
+			<Location>沧州二医院</Location>
+			<Denoter>抢救</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>成都</Location>
+			<Time>5月12日电12日14时28分</Time>，
+			<Location>川西汶川</Location>发生
+			<Denoter>地震</Denoter>，成都
+			<Denoter>震感</Denoter>强烈。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>看到，
+			<Location>成都市许多办公楼</Location>的
+			<Object>饮水机</Object>
+			<Denoter>倒塌</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>文件柜、电视机</Object>均剧烈
+			<Denoter>摇晃</Denoter>，有的倒地，
+			<Object>书籍文件</Object>撒满一地。
+		</Sentence>
+		<Sentence>
+			<Participant>人们</Participant>纷纷冲下
+			<Object>办公大楼</Object>，
+			<Object>手机信号</Object>部分
+			<Denoter>中断</Denoter>。
+		</Sentence>
+		<Sentence>
+			位于
+			<Location>成都南二环外的火车南站立交桥</Location>下，
+			<Object>地下水管</Object>
+			<Denoter>破裂</Denoter>，巨大的水流将
+			<Location>长寿路街道</Location>淹没，目前还无抢救的车辆到位。
+		</Sentence>
+		<Sentence>
+			在
+			<Location>新华社四川分社附近的嘉云台大楼</Location>，出现一道明显的墙裂缝。
+		</Sentence>
+		<Sentence>
+			<Object>楼层外观</Object>局部出现
+			<Denoter>变形</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

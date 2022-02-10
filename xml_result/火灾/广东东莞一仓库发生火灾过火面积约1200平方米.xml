@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Location>东莞</Location>
+			<Time>3月30日</Time>电(李映民李获)
+			<Location>广东东莞万江区一纸品仓库</Location>
+			<Time>30日早上</Time>发生火灾，过火面积约1200平方米，截至记者发稿时，
+			<Object>明火</Object>基本上被
+			<Denoter>扑灭</Denoter>，无人员
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>万江消防</Participant>介绍，
+			<Time>3月30日07时27分</Time>，
+			<Participant>万江大队值班室</Participant>
+			<Denoter>接到</Denoter>报警位于
+			<Location>万江区新村卢屋工业区的东莞市铭丰包装品制造有限公司仓库</Location>发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>指挥中心</Participant>第一时间
+			<Denoter>调派</Denoter>万江专职消防队4台消防车，
+			<Participant>28名指战员</Participant>
+			<Denoter>赶往</Denoter>
+			<Location>现场</Location>
+			<Denoter>处置</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>据悉</Time>，
+			<Object>起火建筑为一幢一层简易仓库</Object>，占地面积为2600平方米，建筑面积为2600平方米，为纸品包装盒仓库，此次火灾的过火面积约1200平方米。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>在
+			<Location>现场</Location>看到，
+			<Location>起火仓库的铁皮屋顶</Location>已
+			<Denoter>坍塌</Denoter>，
+			<Location>现场</Location>浓烟滚滚，明火基本上被
+			<Denoter>扑灭</Denoter>，消防员正继续往火场注水。
+		</Sentence>
+	</Content>
+</Body>

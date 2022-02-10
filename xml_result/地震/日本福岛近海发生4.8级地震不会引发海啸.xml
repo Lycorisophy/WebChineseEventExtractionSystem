@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Time>2月8日</Time>电据日本新闻网
+			<Denoter>报道</Denoter>，
+			<Time>当地时间8日11时34分左右</Time>，
+			<Location>日本福岛县近海</Location>发生4级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>日本气象厅</Participant>的
+			<Participant>地震速报</Participant>称，震源深50公里，最大震级为4.8级。
+		</Sentence>
+		<Sentence>
+			受此
+			<Denoter>地震</Denoter>影响，
+			<Location>福岛县部分地区</Location>的震级为4级，宫城县的震级为3级。
+		</Sentence>
+		<Sentence>
+			<Time>本次</Time>
+			<Denoter>地震</Denoter>不会引发
+			<Denoter>海啸</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>当地时间8日凌晨2点18分左右</Time>，
+			<Location>日本福岛县近海</Location>曾发生5级
+			<Denoter>地震</Denoter>，地震震源深40公里。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>（
+			<Participant>记者</Participant>涂重航）
+			<Time>4月5日下午</Time>，
+			<Location>河南南阳独山景区内</Location>
+			<Object>一辆卡车</Object>
+			<Denoter>失控</Denoter>，沿景区道路冲下山，撞破大门后冲进人群，据警方提供的数字，当天死亡8人，另有
+			<Participant>10多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>当地居民</Participant>
+			<Denoter>透露</Denoter>，
+			<Time>5日下午2时30分许</Time>，
+			<Object>一辆解放牌卡车</Object>，从
+			<Location>南阳独山森林公园内</Location>朝山下行驶。
+		</Sentence>
+		<Sentence>
+			在
+			<Location>靠近大门的数百米道路</Location>上，
+			<Object>卡车</Object>
+			<Denoter>刹车</Denoter>突然
+			<Denoter>失灵</Denoter>，车内
+			<Participant>两名司机</Participant>头伸出窗外大喊，[UNK]让开，快让开[UNK]。
+		</Sentence>
+		<Sentence>
+			<Time>据称</Time>，
+			<Time>当时</Time>在景区内的
+			<Participant>百姓</Participant>纷纷
+			<Denoter>避让</Denoter>，
+			<Object>卡车</Object>沿着下山的道路向下冲，车速越来越快。
+		</Sentence>
+		<Sentence>
+			<Object>卡车</Object>在
+			<Location>景区内</Location>剐上一辆轿车后，
+			<Denoter>撞破</Denoter>景区的自动大门，冲进大门外的人群。
+		</Sentence>
+	</Content>
+</Body>

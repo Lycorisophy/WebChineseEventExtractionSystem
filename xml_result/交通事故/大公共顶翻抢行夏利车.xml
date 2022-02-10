@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>晨报</Participant>讯（实习生程颖）
+			<Time>昨天上午10时30分左右</Time>，在
+			<Location>丰台区蒲黄榆路与蒲方路的十字路口</Location>处发生一起两车
+			<Denoter>相撞</Denoter>事故。
+		</Sentence>
+		<Sentence>
+			一辆直行大公共将一辆抢行的
+			<Object>夏利车顶</Object>翻。
+		</Sentence>
+		<Sentence>
+			据
+			<Location>事故现场</Location>的
+			<Participant>交通协管员</Participant>说，
+			<Time>上午10点半左右</Time>，一辆红色夏利车沿蒲黄榆路由北向南行驶，到达路口想向东转弯，由于蒲黄榆路南北双向都是绿灯，一辆由南向北
+			<Denoter>行驶</Denoter>的39路大公共正在直行通过路口，夏利车没有等待而是加速
+			<Denoter>抢行</Denoter>，大公交刹车不及将
+			<Object>夏利车顶</Object>起，
+			<Participant>一位目击者</Participant>
+			<Denoter>告诉</Denoter>记者：[UNK]夏
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>交警</Participant>迅速
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+		<Sentence>
+			根据夏利车转弯抢行的事实，
+			<Participant>交警</Participant>
+			<Denoter>认定</Denoter>
+			<Object>夏利车主</Object>负全部责任。
+		</Sentence>
+		<Sentence>
+			事故没有造成人员伤亡，
+			<Location>夏利车的右侧车门</Location>受到
+			<Denoter>挤压</Denoter>向内
+			<Denoter>凹陷</Denoter>，事故处理完毕后两车各自
+			<Denoter>开走</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

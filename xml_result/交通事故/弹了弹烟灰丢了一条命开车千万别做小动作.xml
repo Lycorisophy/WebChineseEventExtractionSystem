@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报讯通讯员陈播沈勤本报记者</Participant>何p
+			<Time>近日</Time>，一辆上海牌照的
+			<Object>丰田轿车</Object>，在
+			<Location>沪杭高速公路第二车道</Location>上正常行驶时，突然莫名其妙地斜穿过三四车道，重重撞上右边护栏。
+		</Sentence>
+		<Sentence>
+			巨大的
+			<Participant>冲击力</Participant>将5根护栏连根拔起，车子损坏严重，后排一名乘客因为没有系好安全带，头部受伤出血。
+		</Sentence>
+		<Sentence>
+			<Time>事后</Time>，在接受高速交警调查时，
+			<Participant>肇事驾驶员</Participant>
+			<Denoter>回忆</Denoter>[UNK][UNK][UNK]开车时手机突然响了。
+		</Sentence>
+		<Sentence>
+			我	o看	o看	o前	o面	o车	o子	o离	o得	o很	o远	o，	o就	o接	o了	o电	o话	o。	o
+		</Sentence>
+		<Sentence>
+			说	o了	o几	o句	o后	o就	o让	o后	o排	o我	o姐	o姐	o听	o。	o
+		</Sentence>
+	</Content>
+</Body>

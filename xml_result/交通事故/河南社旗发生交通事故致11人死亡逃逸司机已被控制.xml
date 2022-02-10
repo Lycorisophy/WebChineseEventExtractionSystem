@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>郑州</Location>
+			<Time>１０月７日电</Time>（记者李亚楠）记者从河南省社旗县委宣传部获悉，经进一步核实，１０
+			<Time>月７日６时３##６分</Time>，在
+			<Location>省道ｓ##３##３##３线社旗县桥头镇对吴庄村东５０##０米处</Location>，一辆重型半挂货车（车牌号豫ｑ##ａ##８##６##２##９）自西向东与一辆长安之星面包车（车牌号豫ｒ##６##ｑ##２##６##５）迎面
+			<Denoter>相撞</Denoter>，/w造
+		</Sentence>
+		<Sentence>
+			据
+			<Denoter>介绍</Denoter>，事故发生后，
+			<Participant>货车司机</Participant>
+			<Denoter>逃逸</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Participant>这名３０多岁的男性司机</Participant>已被
+			<Participant>公安机关</Participant>
+			<Denoter>控制</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生后，南阳市和社旗县迅速
+			<Denoter>启动</Denoter>了
+			<Object>应急预案</Object>，全力以赴做好抢救和事故处置工作。
+		</Sentence>
+		<Sentence>
+			<Participant>市、县主要领导组织卫生、</Participant>消防、安监、公安、交通、民政等部门迅速
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>，指导
+			<Denoter>抢救</Denoter>
+			<Object>处置工作</Object>。
+		</Sentence>
+	</Content>
+</Body>

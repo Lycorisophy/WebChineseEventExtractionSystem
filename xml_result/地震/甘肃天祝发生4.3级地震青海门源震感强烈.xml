@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Location>西宁</Location>
+			<Time>2月22日</Time>电记者刚刚从青海省地震局获悉，甘肃省天祝县发生4.3级
+			<Denoter>地震</Denoter>后，
+			<Location>青海省海北州门源县朱固乡</Location>震感强烈
+			<Denoter>。</Denoter>
+		</Sentence>
+		<Sentence>
+			<Time>2月22日12时56分</Time>在
+			<Location>甘肃省武威市天祝藏族自治县</Location>(北纬37.6度，东经102.3度)发生4.3级
+			<Denoter>地震</Denoter>，震源深度6千米。
+		</Sentence>
+	</Content>
+</Body>

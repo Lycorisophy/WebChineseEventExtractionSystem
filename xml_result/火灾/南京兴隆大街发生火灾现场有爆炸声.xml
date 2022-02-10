@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>现代快报快讯</Participant>：
+			<Location>南京兴隆大街现场</Location>有
+			<Denoter>爆炸</Denoter>声。
+		</Sentence>
+		<Sentence>
+			<Participant>现代快报马晶晶</Participant>在
+			<Location>现场</Location>，听到前后三声
+			<Denoter>爆炸</Denoter>，火还在烧。
+		</Sentence>
+		<Sentence>
+			<Location>兴隆大街一小作坊</Location>发生火灾，虽然救火队来了很多，但是由于
+			<Denoter>堵塞</Denoter>加上消防通道缺失，使得火势一直难得到有效
+			<Denoter>控制</Denoter>。
+		</Sentence>
+		<Sentence>
+			里面隐隐还有
+			<Object>鞭炮声</Object>不断
+			<Denoter>传出</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>11时26分</Time>，
+			<Location>建邺区兴隆大街80号一民房</Location>
+			<Denoter>失火</Denoter>，
+			<Participant>消防部门</Participant>接警后，立即
+			<Denoter>调集</Denoter>
+			<Participant>兴隆、特一、汉中门共3个消防中队</Participant>
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+		<Sentence>
+			<Object>失火建筑</Object>为大跨度单层厂房结构，总面积约1000平方米，内部分割成多个隔断房间用于居住或储存物品。
+		</Sentence>
+	</Content>
+</Body>

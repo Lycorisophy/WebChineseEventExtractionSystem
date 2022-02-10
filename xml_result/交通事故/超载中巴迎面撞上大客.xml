@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>
+			<Time>8月21日7时40分</Time>，在
+			<Location>307国道河北黄骅市滕庄子乡康庄子路口</Location>，一辆大客车和一辆中巴客车迎头
+			<Denoter>相撞</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>截至昨日18时</Time>，已有
+			<Participant>9人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>另有52人</Participant>受伤，其中9人伤势较重。
+		</Sentence>
+	</Content>
+</Body>

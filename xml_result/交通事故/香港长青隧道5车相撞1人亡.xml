@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>新华社</Participant>
+			<Location>香港</Location>
+			<Time>8月21日</Time>电位于
+			<Location>香港新界区的长青隧道通往九龙方向的管道</Location>内，
+			<Time>21日上午</Time>发生一起5车
+			<Denoter>相撞</Denoter>的严重交通事故，造成
+			<Participant>1人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>20多人</Participant>
+			<Denoter>受伤</Denoter>，其中
+			<Participant>2人</Participant>受伤严重。
+		</Sentence>
+		<Sentence>
+			事故发生在
+			<Time>早上8时30分左右</Time>，一辆载客量为26人的小巴，在长青隧道通往九龙方向的管道内慢线行驶时突然
+			<Denoter>停下</Denoter>，尾随的4辆车刹车不及向前撞去。
+		</Sentence>
+	</Content>
+</Body>

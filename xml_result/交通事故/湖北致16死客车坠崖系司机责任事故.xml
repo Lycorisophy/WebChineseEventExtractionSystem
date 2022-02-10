@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>宜昌</Location>
+			<Time>11月9日</Time>电(记者刘紫凌、冯国栋)记者
+			<Time>9日</Time>从湖北省宜昌市交警部门
+			<Denoter>获悉</Denoter>，今年10
+			<Time>月1日</Time>发生的[UNK]兴山客车坠崖[UNK]重大交通事故，造成16死19伤，其具体原因现已
+			<Denoter>查明</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>驾驶员</Participant>熊承担事故全责。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>
+			<Participant>公安机关</Participant>已按涉嫌交通肇事罪予以立案
+			<Denoter>侦查</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>交警部门</Participant>
+			<Denoter>通报</Denoter>了事故的
+			<Object>具体原因</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>驾驶人</Participant>熊无山区驾驶经验，长期在
+			<Location>平原道路</Location>
+			<Denoter>驾驶</Denoter>，前往神农架是其第一次驾驶大客车驶入山区道路；
+			<Participant>司法鉴定机构</Participant>对
+			<Denoter>打捞</Denoter>出水的肇事车辆
+			<Denoter>检验</Denoter>后
+			<Denoter>发现</Denoter>，客车左后轮胎胎面磨损严重，存在诱发车辆侧滑的
+			<Object>安全隐患；肇事车辆</Object>在事故易发路段
+			<Denoter>行驶</Denoter>时未
+			<Denoter>降低</Denoter>速度，未按照操作规范安全
+			<Denoter>驾驶</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Participant>公安机关</Participant>按涉嫌交通肇事罪对驾驶员熊予以立案
+			<Denoter>侦查</Denoter>，同时按涉嫌重大责任事故罪，对肇事客车
+			<Participant>公司法定代表人、安全经理等相关责任人</Participant>予以立案
+			<Denoter>侦查</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

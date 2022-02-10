@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>潍坊新闻网</Participant>
+			<Time>12月31日讯12月30日上午11时许</Time>，在
+			<Location>奎文区文化路与东风东街交叉口西侧200米处</Location>发生一起交通事故，一辆捷达轿车为
+			<Denoter>躲避</Denoter>一名骑着电动车横穿马路的行人紧急刹车，后车
+			<Denoter>避让</Denoter>不及，导致了一场6车连环
+			<Denoter>追尾</Denoter>事故，所幸并未造成
+			<Participant>人员</Participant>
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>赶到现场看到，
+			<Object>6辆事故车</Object>仍
+			<Denoter>停放</Denoter>在
+			<Location>马路中间</Location>，所幸并未造成人员
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			由于
+			<Time>当时</Time>恰好是
+			<Time>中午</Time>下班的高峰时间，过往车辆很多，事故导致轻微
+			<Denoter>堵车</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>留意到，6辆车均不同程度
+			<Denoter>受损</Denoter>，其中排在最前面的是一辆捷达轿车，紧随其后的是两辆出租车。
+		</Sentence>
+		<Sentence>
+			<Object>两辆出租车</Object>受损均较为严重，其中前面的出租车车前盖发生
+			<Denoter>变形</Denoter>，前
+			<Object>保险杠</Object>左侧
+			<Denoter>脱落</Denoter>，左前车灯
+			<Denoter>粉碎</Denoter>；后面的
+			<Object>出租车后保险杠</Object>破裂脱落、尾灯几乎报废，车左后门已关不严，据
+			<Participant>该车司机</Participant>估计维修费需要几千元。
+		</Sentence>
+		<Sentence>
+			<Denoter>驾驶</Denoter>捷达轿车的是
+			<Participant>一名年轻小伙</Participant>，在路口
+			<Participant>有名男子</Participant>推着电动车就往前走，
+			<Object>捷达轿车</Object>司机急踩刹车躲避。
+		</Sentence>
+		<Sentence>
+			刚	o刹	o住	o车	o，	o就	o听	o见	o后	o边	o传	o来	o[UNK]	o砰	o[UNK]	o的	o一	o声	o。	o
+		</Sentence>
+		<Sentence>
+			<Participant>交警</Participant>经现场勘查发现，本次事故的
+			<Object>主要原因</Object>是
+			<Participant>司机</Participant>没有保持好车距，没有及时
+			<Denoter>规避</Denoter>前车。
+		</Sentence>
+	</Content>
+</Body>

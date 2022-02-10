@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>3月2日</Time>是伊斯兰教什叶派最重要的节日之一阿舒拉节，上百万来自伊拉克、伊朗及世界各地的什叶派穆斯林云集卡尔巴拉和巴格达，举行
+			<Denoter>庆祝</Denoter>活动。
+		</Sentence>
+		<Sentence>
+			然	o而	o，	o就	o在	o庆	o祝	o活	o动	o进	o入	o高	o潮	o时	o，	o惨	o剧	o发	o生	o了	o。	o
+		</Sentence>
+		<Sentence>
+			<Time>上午10时许</Time>，几乎在
+			<Location>卡尔巴拉和巴格达两地</Location>同时发生了针对什叶派穆斯林的13起自杀性爆炸袭击，共造成
+			<Participant>271人</Participant>
+			<Denoter>丧生</Denoter>，
+			<Participant>600多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

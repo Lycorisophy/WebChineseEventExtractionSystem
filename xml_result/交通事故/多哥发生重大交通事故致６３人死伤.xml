@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网洛美４</Participant>
+			<Time>月１５日</Time>电（记者张改萍）多哥官员
+			<Time>１５日</Time>说，一辆大客车１４日晚在多哥横跨南北的国家一号公路上与迎面而来的
+			<Object>载重拖车</Object>
+			<Denoter>相撞</Denoter>，造成４##７人死亡、
+			<Participant>１６人</Participant>
+			<Denoter>重伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>当地官员</Participant>对此媒体说，事故发生在
+			<Time>当地时间１４日２##３时</Time>，一辆５##６座的
+			<Object>大客车</Object>在
+			<Location>距首都洛美以北１６##０公里的高原区阿塔帕梅南部的公路上</Location>与迎面而来的载重拖车相撞，造成３辆车连环相撞。
+		</Sentence>
+		<Sentence>
+			据初步统计，死亡的
+			<Participant>４##７人中有４##５人</Participant>是大客车上的乘客，其中有１５名布基纳法索人，１名尼日利亚人，其余为多哥人；
+			<Participant>另两名死者</Participant>是载重拖车上的乘员。
+		</Sentence>
+		<Sentence>
+			另有
+			<Participant>１６人</Participant>伤势严重，包括４名另一辆小巴上的
+			<Participant>乘客</Participant>。
+		</Sentence>
+		<Sentence>
+			这是
+			<Participant>多哥２０</Participant>
+			<Time>##１##４年年初以来</Time>发生的第三起
+			<Denoter>严重交通事故</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>今年２月</Time>，
+			<Location>多哥北部卡拉区代法莱市山区</Location>发生客车与卡车相撞事故，造成至少
+			<Participant>１##９人</Participant>丧生、
+			<Participant>５０多人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

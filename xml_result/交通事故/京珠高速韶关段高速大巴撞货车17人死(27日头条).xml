@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>昨天凌晨1时10分左右</Time>，
+			<Location>京珠北高速公路乳源东田段北行方</Location>向发生特大交通事故，一辆高速行驶的大客车
+			<Denoter>追尾</Denoter>撞上故障大货车，共造成
+			<Participant>17人</Participant>死亡、1人重伤、4人轻伤，28人轻微伤。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>
+			<Participant>大客车司机</Participant>已被警方
+			<Denoter>控制</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>昨天凌晨1时10分左右</Time>，
+			<Location>京珠北高速公路75##km+300##m北行方向</Location>发生一辆高速行驶的大客车
+			<Denoter>追尾</Denoter>撞上故障大货车的特大交通事故，共造成17人死亡、1人重伤、4人轻伤。
+		</Sentence>
+	</Content>
+</Body>

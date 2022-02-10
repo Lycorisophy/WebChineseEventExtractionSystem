@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>人民网</Participant>
+			<Location>重庆</Location>
+			<Time>5月12日电今日下午14：30分左右</Time>，重庆
+			<Denoter>出现</Denoter>明显
+			<Denoter>震动</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>中国国家地震台网</Participant>
+			<Denoter>测定</Denoter>，
+			<Time>北京时间2008年5月12日14时28分</Time>，在
+			<Location>四川汶川县</Location>（北纬31．0度，东经103．4度）发生7．6级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>14：30</Time>，位于
+			<Location>重庆市渝中区上清寺牛角沱鑫隆达附近的建筑</Location>，都出现了不同程度的震动，震感明显。
+		</Sentence>
+		<Sentence>
+			正在上班的
+			<Participant>市民</Participant>纷纷快速
+			<Denoter>下楼</Denoter>，
+			<Denoter>撤离</Denoter>到地势空旷的地带。
+		</Sentence>
+		<Sentence>
+			<Participant>市民</Participant>
+			<Denoter>惊魂</Denoter>未定，
+			<Object>通信信号</Object>陷入
+			<Denoter>中断</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

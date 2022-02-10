@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新社</Participant>
+			<Location>拉萨六月</Location>
+			<Time>三十日</Time>电(记者柳俊武)记者
+			<Time>今日上午</Time>从西藏自治区地震局了解到，二
+			<Time>十九日晚</Time>发生在西藏班戈县的五点五级
+			<Denoter>地震</Denoter>，震区基本属无人区，
+			<Denoter>地震</Denoter>影响有限。
+		</Sentence>
+		<Sentence>
+			<Time>此前</Time>，
+			<Participant>西藏地震局</Participant>已经对包括该县在内的藏北四县学校、企业等抗震设防情况进行了初步了解，并提出了相关
+			<Denoter>建议</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>中国国家地震台网</Participant>
+			<Denoter>测定</Denoter>，
+			<Time>北京时间六月二十九日二十时四十七分</Time>，在
+			<Location>西藏班戈县</Location>发生五点五级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>震中距班戈县城</Location>约三百七十公里。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>西藏地震局办公室一负责官员</Participant>
+			<Denoter>介绍</Denoter>，此次震区属于西藏地震多发带，平均
+			<Denoter>海拔</Denoter>约五千米，人烟稀少。
+		</Sentence>
+		<Sentence>
+			他们向邻近的双湖区(县级建制)了解情况，当地几乎没有
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>五月中旬</Time>，
+			<Participant>西藏地震局由局长率调查组</Participant>已对包括该县在内的藏北四县的学校、医院、部分企业完成抗震设防调查，并向自治区提交了一份相关建议报告。
+		</Sentence>
+		<Sentence>
+			据	o悉	o，	o目	o前	o西	o藏	o已	o拟	o在	o全	o区	o开	o展	o学	o校	o抗	o震	o设	o防	o调	o查	o，	o同	o时	o向	o边	o远	o地	o区	o救	o援	o队	o伍	o增	o加	o配	o备	o救	o援	o设	o备	o。	o
+		</Sentence>
+	</Content>
+</Body>

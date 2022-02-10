@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2014年1月2日</Time>，
+			<Participant>兰州消防官兵</Participant>在紧急
+			<Denoter>处置</Denoter>
+			<Location>泰生大厦顶部</Location>
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>当日14时20分许</Time>，位于
+			<Location>甘肃省兰州市张掖路的泰生大厦顶部</Location>发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>兰州消防共</Participant>
+			<Denoter>调集</Denoter>6个中队，
+			<Object>21台消防车</Object>，
+			<Participant>近200名消防官兵</Participant>
+			<Denoter>前往</Denoter>救火。
+		</Sentence>
+		<Sentence>
+			经过
+			<Time>2个小时</Time>的紧张
+			<Denoter>扑救</Denoter>，
+			<Object>火灾</Object>于
+			<Time>16时40分许</Time>
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

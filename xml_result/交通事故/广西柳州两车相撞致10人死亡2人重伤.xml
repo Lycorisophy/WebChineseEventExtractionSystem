@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新社</Participant>
+			<Location>南宁</Location>
+			<Time>三月二十七日</Time>电(记者周丹钰王刚)一辆从贵州开往广东的小车与一辆大客车迎面
+			<Denoter>相撞</Denoter>，造成小车上包括司机在内的六男四女共
+			<Participant>十人</Participant>当场
+			<Denoter>死亡</Denoter>，另外两男子受
+			<Denoter>重伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>今日凌晨</Time>，
+			<Location>广西柳州市鹿寨县寨沙镇</Location>发生特大交通事故，造成
+			<Participant>十人</Participant>当场
+			<Denoter>死亡</Denoter>，
+			<Participant>二人</Participant>受重伤。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>印度媒体</Participant>
+			<Time>19日</Time>报道，
+			<Location>印度北部锡金邦</Location>
+			<Time>18日18时10分</Time>（北京时间20
+			<Time>时40分</Time>）发生里氏6.8级
+			<Denoter>地震</Denoter>，震源深度约20公里。
+		</Sentence>
+		<Sentence>
+			<Time>截至北京时间19日晚些时候</Time>，
+			<Time>目前</Time>造成包括印度、尼泊尔在内至少56人死亡,
+			<Participant>200多人</Participant>受伤，伤亡数字还会增加。
+		</Sentence>
+		<Sentence>
+			报道说，
+			<Location>我国西藏自治区13个县</Location>受影响，其中亚东县受波及严重，目前已有
+			<Participant>7人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>23人</Participant>受伤。
+		</Sentence>
+		<Sentence>
+			<Location>我国西藏自治区</Location>已经启动地震应急预案二级响应，国家减灾委、民政部于
+			<Time>9月19日10时30分</Time>紧急
+			<Denoter>启动</Denoter>国家四级救灾应急响应，派出工作组赴灾区协助开展救灾工作。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>印度媒体</Participant>报道，
+			<Location>锡金邦首府甘托克周边地区</Location>发生山体滑坡、房屋倒塌，已造成包括印度、尼泊尔在内56人死亡、至少200人受伤。
+		</Sentence>
+		<Sentence>
+			由于
+			<Denoter>断电</Denoter>，
+			<Participant>甘托克</Participant>陷入一片黑暗，
+			<Object>手机信号</Object>和网络
+			<Denoter>中断</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

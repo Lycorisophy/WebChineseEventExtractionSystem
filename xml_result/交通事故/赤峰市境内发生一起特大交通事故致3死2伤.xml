@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网内蒙古频道</Participant>
+			<Time>９月３日</Time>电（宋景军）据内蒙古赤峰
+			<Participant>市公安局</Participant>
+			<Time>３日</Time>
+			<Denoter>披露</Denoter>，赤峰市日前发生一起面包车与大货车相撞事故，造成
+			<Participant>3人</Participant>
+			<Denoter>死亡</Denoter>2人受伤。
+		</Sentence>
+		<Sentence>
+			据了解，
+			<Time>８月３##１日下午16：45分左右</Time>，在
+			<Location>s2##06线喀喇沁旗牛家营子段</Location>发生一起特大交通事故，因当时
+			<Denoter>突降</Denoter>暴雨，一辆牌照为蒙d5##99##23的面包车与一辆牌照为蒙d2##17##50的大货车
+			<Denoter>相撞</Denoter>，造成
+			<Participant>3人</Participant>
+			<Denoter>死亡</Denoter>2人受伤。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Object>事故</Object>正在进一步
+			<Denoter>处理</Denoter>中。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>东方网</Participant>
+			<Time>7月27日</Time>
+			<Denoter>消息</Denoter>：
+			<Time>昨日上午8时15分</Time>，由
+			<Location>西安开往乌鲁木齐的104##3次</Location>旅客列车，运行至
+			<Location>中国最长的铁路隧道[UNK][UNK]兰新线乌鞘岭隧道</Location>左线时机车突然
+			<Denoter>着火</Denoter>，经铁路、消防等部门紧急
+			<Denoter>处置</Denoter>，
+			<Participant>千余旅客</Participant>
+			<Denoter>徒步</Denoter>逃生，
+			<Object>大火</Object>被
+			<Denoter>扑灭</Denoter>，未造成人员
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>事故原因</Object>有关方面正在
+			<Denoter>调查</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>乘客</Participant>从隧道脱险后，铁路部门立即
+			<Denoter>清点</Denoter>人数，
+			<Denoter>确认</Denoter>无人员伤亡。
+		</Sentence>
+		<Sentence>
+			对部分距离目的地不远的
+			<Participant>乘客</Participant>，
+			<Participant>铁路警方</Participant>
+			<Denoter>安排</Denoter>班车回家，
+			<Participant>大部分乘客</Participant>等待救援的机车抵达后，被安全
+			<Denoter>带离</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+		<Sentence>
+			<Time>当日中午12时14分许</Time>，在
+			<Object>新机车</Object>的牵引下，
+			<Object>104##3次旅客列车</Object>从
+			<Location>龙沟车站</Location>开出，运输秩序恢复正常。
+		</Sentence>
+	</Content>
+</Body>

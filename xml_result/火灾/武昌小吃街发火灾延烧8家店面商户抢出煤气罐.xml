@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>讯(记者杨京)
+			<Time>昨天早上</Time>，
+			<Location>武昌雄楚大道小何村一条小吃街</Location>内发生
+			<Denoter>火灾</Denoter>，火势蔓延后殃及8家小吃店。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>，
+			<Object>大火</Object>已经被
+			<Denoter>扑灭</Denoter>，几个从火场中抢出的煤气罐放在路边。
+		</Sentence>
+		<Sentence>
+			<Denoter>起火</Denoter>的是一排
+			<Denoter>出售</Denoter>各种小吃的门面，均用
+			<Object>彩钢板</Object>搭建而成，屋顶已经被
+			<Denoter>烧塌</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>市民刘女士</Participant>是一家炒面铺的老板娘，她告诉记者，
+			<Time>昨天早上8点</Time>，
+			<Object>这排小吃店</Object>大多没有
+			<Denoter>开业</Denoter>。
+		</Sentence>
+		<Sentence>
+			突然，与自家相邻不远的熟食铺里
+			<Denoter>冒出</Denoter>
+			<Object>浓烟</Object>，进而便有明火蹿出。
+		</Sentence>
+		<Sentence>
+			由于火势蔓延较快，加上起火店铺的卷闸门尚未
+			<Denoter>开启</Denoter>，附近商户均不便自行
+			<Denoter>扑救</Denoter>，只来得及赶紧将店内的几个煤气罐抢出，随后拨打119报警。
+		</Sentence>
+		<Sentence>
+			<Participant>消防官兵</Participant>很快
+			<Denoter>赶到</Denoter>将火
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

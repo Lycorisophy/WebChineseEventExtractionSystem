@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>南海网</Participant>
+			<Time>12月9日</Time>
+			<Denoter>消息</Denoter>：
+			<Time>12月9日下午3时左右</Time>，
+			<Location>海文高速公路文昌至海口方向37公里处</Location>发生一起重大交通事故，酿成1死8伤的惨剧。
+		</Sentence>
+		<Sentence>
+			<Time>9日下午2时55分</Time>，
+			<Participant>文昌市公安消防支队</Participant>接到增援海口支队的命令：在
+			<Location>>海文高速文昌至海口方向37公里处</Location>，一辆车牌号为琼a1##90##97的小汽车发生交
+			<Denoter>通事故</Denoter>，车上
+			<Participant>8名乘客</Participant>
+			<Denoter>被困</Denoter>，情况紧急。
+		</Sentence>
+		<Sentence>
+			<Time>下午3时42分</Time>，
+			<Participant>文昌消防支队官兵</Participant>
+			<Denoter>到达</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+		<Sentence>
+			经过
+			<Location>现场</Location>
+			<Denoter>观察</Denoter>了解，车上包括司机在内共有
+			<Participant>9人，司机</Participant>已当场
+			<Denoter>死亡</Denoter>，另有2名儿童、6名成人受伤被困车中。
+		</Sentence>
+		<Sentence>
+			在
+			<Participant>海口消防支队与文昌消防支队官兵</Participant>的共同
+			<Denoter>努力</Denoter>下，
+			<Participant>所有受困人员</Participant>最终被全部
+			<Denoter>解救</Denoter>出来，并
+			<Denoter>送往</Denoter>
+			<Location>医院</Location>进行
+			<Denoter>治疗</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

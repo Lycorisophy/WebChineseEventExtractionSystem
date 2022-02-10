@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Location>深圳市光明新区荣健农批水果市场</Location>
+			<Time>11日凌晨</Time>发生重大
+			<Denoter>火灾</Denoter>，造成
+			<Participant>16人</Participant>死亡、5人受伤。
+		</Sentence>
+		<Sentence>
+			<Participant>中共中央政治局常委、国务院总理李克强</Participant>作出紧急
+			<Denoter>批示</Denoter>，要求全力
+			<Denoter>救治</Denoter>伤员，核实伤亡情况，妥为善后
+			<Denoter>处理</Denoter>。
+		</Sentence>
+		<Sentence>
+			要尽快
+			<Denoter>查明</Denoter>原因，依法依规处理。
+		</Sentence>
+	</Content>
+</Body>

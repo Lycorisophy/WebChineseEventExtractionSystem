@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>昨日清晨７时许</Time>，
+			<Location>新３##１##２国道锡沪路段</Location>发生一起
+			<Denoter>交通事</Denoter>故，一辆卡车与一辆面包车发生
+			<Denoter>追尾</Denoter>，事故共造成车内１人死亡，其余７人不同程度受伤。
+		</Sentence>
+		<Sentence>
+			<Time>至下午５点发稿时</Time>，
+			<Participant>７名伤员</Participant>中有
+			<Participant>１人</Participant>仍在
+			<Denoter>抢救</Denoter>中。
+		</Sentence>
+		<Sentence>
+			在
+			<Location>事故现场</Location>，
+			<Object>面包车</Object>被撞得面目全非，地上全是玻璃碎片。
+		</Sentence>
+		<Sentence>
+			受轻伤的
+			<Participant>卡车司机</Participant>慌张地说，当时卡车内就其一人，车子下坡时前方车辆很多，不知怎么回事两车就撞在一起了。
+		</Sentence>
+		<Sentence>
+			面包车里的
+			<Participant>受伤乘客</Participant>说，他们车内当时有
+			<Participant>７人</Participant>，一早从张泾出发的，不料却遭此意外，面包车内的那名死者来自四川。
+		</Sentence>
+	</Content>
+</Body>

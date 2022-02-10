@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Location>尼加拉瓜西南部太平洋沿岸</Location>
+			<Time>11日下午</Time>发生6.6级
+			<Denoter>地震</Denoter>，目前人员
+			<Denoter>伤亡</Denoter>和财产损失情况不明。
+		</Sentence>
+		<Sentence>
+			<Participant>尼加拉瓜政府发言人罗萨里奥・穆里略</Participant>
+			<Time>当天</Time>通过全国电视网络
+			<Denoter>证实</Denoter>，
+			<Denoter>地震</Denoter>发生在
+			<Time>当地时间11日14时29</Time>分（北京时间12
+			<Time>日4时29</Time>分），震中位于
+			<Location>西南部城市楠代梅附近，距离首都马那瓜61公里，</Location>震源深度150公里。
+		</Sentence>
+		<Sentence>
+			<Denoter>地震</Denoter>持续时间约
+			<Time>10秒</Time>，
+			<Location>马那瓜、莱昂等多个城市</Location>
+			<Denoter>震感</Denoter>非常强烈。
+		</Sentence>
+		<Sentence>
+			<Location>尼加拉瓜西北部</Location>
+			<Time>10日</Time>刚发生6.2级
+			<Denoter>地震</Denoter>及逾百次
+			<Denoter>余震</Denoter>，截至目前已导致
+			<Participant>1人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>多人</Participant>受伤，
+			<Object>800多间房屋</Object>遭受不同程度
+			<Denoter>损坏</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>尼总统奥尔特加</Participant>
+			<Time>11日凌晨</Time>宣布该国进入紧急状态，数千名震区内的
+			<Object>危房住户</Object>被紧急
+			<Denoter>转移</Denoter>，当地所有学校停课，主要商业设施关闭。
+		</Sentence>
+	</Content>
+</Body>

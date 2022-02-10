@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新社</Participant>
+			<Location>杭州</Location>
+			<Time>十二月四日</Time>电(杨[UNK]晖徐晓君)今
+			<Time>日上午八时三十分许</Time>，受大雾天气影响，
+			<Location>浙江杭金衢高速公路诸暨段</Location>发生一起重大
+			<Denoter>交通事故</Denoter>，三十三辆车连环相撞，事故造成
+			<Participant>一人</Participant>
+			<Denoter>死亡</Denoter>，一人重伤，
+			<Participant>六人</Participant>
+			<Denoter>轻伤</Denoter>，一千余辆过往车辆
+			<Denoter>滞留</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>事发后</Time>，
+			<Time>第一时间</Time>
+			<Denoter>赶到</Denoter>的
+			<Participant>高速交警、消防官兵</Participant>和医务人员及时将被因人员救出，并
+			<Denoter>送往</Denoter>
+			<Location>医院</Location>抢救。
+		</Sentence>
+		<Sentence>
+			一
+			<Participant>现场救援人员</Participant>称，
+			<Location>高速公路上面</Location>近五百余辆汽车排成了长龙，准备上高速的几百辆汽车也被迫
+			<Denoter>滞留</Denoter>，交通一时
+			<Denoter>瘫痪</Denoter>，在事故地点的路面上到处都是
+			<Denoter>撞碎</Denoter>的玻璃碎片和汽车零部件。
+		</Sentence>
+	</Content>
+</Body>

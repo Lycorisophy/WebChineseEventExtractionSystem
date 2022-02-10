@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>新华社</Participant>电西班牙民族分裂组织[UNK]埃塔[UNK]3
+			<Time>日</Time>在
+			<Location>首都马德里5个加油站</Location>同时制造5起爆炸事件，造成
+			<Participant>2人</Participant>受轻伤。
+		</Sentence>
+		<Sentence>
+			据西班牙内政部透露，
+			<Time>当天下午5时30分</Time>，
+			<Participant>一匿名人士</Participant>以[UNK]埃塔[UNK]的名义电话通知西班牙北部地区的《加拉报》说，
+			<Time>当天下午6时30分</Time>，
+			<Location>马德里5个加油站</Location>将发生炸弹
+			<Denoter>爆炸</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>西班牙警方</Participant>立即将这些加油站的人员全部
+			<Denoter>转移</Denoter>到
+			<Location>安全地区</Location>。
+		</Sentence>
+		<Sentence>
+			<Time>大约6时30分</Time>，
+			<Location>这5个加油站</Location>果然发生
+			<Denoter>爆炸</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>这些炸弹</Object>分别被
+			<Denoter>安放</Denoter>在
+			<Location>马德里通向外地的5号、6号等5条高速公路出入口的加油站</Location>，因为当天是周末，出城的车辆比较多，爆炸事件曾引起短时间的
+			<Denoter>交通堵塞</Denoter>，但很快恢复正常。
+		</Sentence>
+		<Sentence>
+			<Participant>马德里大区政府</Participant>
+			<Time>当天</Time>呼吁
+			<Participant>马德里市民</Participant>保持平静，并宣布全区进入二级警戒状态，即全城所有警备装置和人员立即
+			<Denoter>出动</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

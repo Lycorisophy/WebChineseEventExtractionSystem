@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>今天14时35分</Time>，
+			<Location>宁夏回族自治区首府银川市</Location>发生有感
+			<Denoter>地震</Denoter>，震动时间持续
+			<Time>20秒左右</Time>。
+		</Sentence>
+		<Sentence>
+			<Time>14时35分左右</Time>，
+			<Participant>记者</Participant>在办公室里忽然觉得有震感，以为发生错觉，待抬头看悬挂着的日光灯时，发现灯在
+			<Denoter>晃动</Denoter>，后发现水桶里的矿泉水也在
+			<Denoter>晃动</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>急忙
+			<Denoter>跑到</Denoter>
+			<Location>楼道，</Location>
+			<Time>此时</Time>的感觉就像楼在水中漂。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>从四楼跑到楼下，发现楼下已经站满了人，大家都在
+			<Denoter>议论</Denoter>刚才发生的
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			与记者站邻近的一家学校已把
+			<Participant>所有学生</Participant>全部
+			<Denoter>疏散</Denoter>到空旷的场地。
+		</Sentence>
+	</Content>
+</Body>

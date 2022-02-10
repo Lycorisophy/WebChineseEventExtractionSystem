@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>当地时间7月11日傍晚</Time>,
+			<Location>印度西部城市孟买</Location>发生7起连环爆炸事件,已经造成了至少200人
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			连环
+			<Denoter>爆炸</Denoter>事件发生在傍晚运输高峰时段,地点位于交通密集度较高的
+			<Object>西线城铁</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>印度政府</Participant>
+			<Denoter>宣布</Denoter>孟买列车连环
+			<Denoter>爆炸</Denoter>事件是恐怖袭击事件，
+			<Denoter>要求</Denoter>
+			<Location>孟买所有敏感地区</Location>进入一级戒备状态。
+		</Sentence>
+	</Content>
+</Body>

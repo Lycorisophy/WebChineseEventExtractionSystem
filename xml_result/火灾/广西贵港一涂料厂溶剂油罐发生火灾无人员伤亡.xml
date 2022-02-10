@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中国警察网</Participant>讯
+			<Time>4月29日20时21分</Time>，
+			<Location>广西贵港市西江农场一涂料厂</Location>
+			<Object>溶剂油罐</Object>发生火灾，大火燃烧产生大量滚滚浓烟腾，四周毗邻厂房、房屋受到
+			<Denoter>威胁</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>贵港市消防支队指挥中心</Participant>接警后，迅速
+			<Denoter>调集</Denoter>特勤、港北、港南、覃塘4个中队
+			<Participant>11辆消防车62名官兵</Participant>
+			<Denoter>前往扑救</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

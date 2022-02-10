@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>海口</Location>
+			<Time>1月30日</Time>电（记者罗羽）1
+			<Time>月30日零时15分</Time>，
+			<Location>海南省定安县境内，环岛东线高速公路海口往三亚方向53公里处</Location>，发生一起
+			<Object>小轿车与油罐车</Object>追尾相撞引发起火交通事故，该事故造成
+			<Participant>小轿车人员5人</Participant>当场
+			<Denoter>死亡</Denoter>，其中
+			<Participant>一人为未成年人</Participant>。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>从定安交通局获悉，经初步
+			<Denoter>调查</Denoter>，车牌号为琼c5##37##15的油罐车，属海南省公路材料供应站危险货物运输车队，装载
+			<Object>20吨97号汽油</Object>从马村运往三亚途中，被车牌号为琼ab##71##19的悦达起亚车追尾，发生起火交通事故。
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>省消防总队</Participant>立即
+			<Denoter>调集</Denoter>海口支队10车66人、琼海支队6车48人、万宁大队3车22人到场增援，3时03分，增援力量全部到场，
+			<Time>5时05分</Time>火势被
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			在整个灭火的过程中，未发生
+			<Denoter>爆炸</Denoter>等次生
+			<Denoter>治安</Denoter>火灾灾害事故。
+		</Sentence>
+		<Sentence>
+			<Time>当日9时50分</Time>，
+			<Location>东线高速公路三亚往海口方向的路段</Location>全线
+			<Denoter>畅通</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>至当日11时30分</Time>，
+			<Location>东线高速公路海口往三亚方向定安段</Location>已全线
+			<Denoter>畅通</Denoter>，事故车辆已全部
+			<Denoter>吊开</Denoter>，油罐内剩下
+			<Object>约20吨97号汽油</Object>也被安全
+			<Denoter>转移</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

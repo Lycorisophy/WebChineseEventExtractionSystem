@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网唐山11</Participant>
+			<Time>月27日</Time>电(记者白云水)记者今天从唐山交警支队
+			<Denoter>获悉</Denoter>，二
+			<Time>十六日晚七时许</Time>唐山境内发生一起重大交通事故，一大货车与
+			<Object>一辆小轿车</Object>对头
+			<Denoter>相撞</Denoter>，造成
+			<Participant>两人</Participant>当场
+			<Denoter>死亡</Denoter>，一人重伤一人轻伤。
+		</Sentence>
+		<Sentence>
+			据介绍，事故发生在
+			<Location>唐钱路后于家店附近</Location>，据交警事故调查报告显示，大货车司机当时驾车正由西向东正常行驶，
+			<Object>一辆伊兰特轿车</Object>突然逆行冲了过来，撞在了大货车的一侧后又撞在了路边的大树上。
+		</Sentence>
+		<Sentence>
+			据现场处理事故的
+			<Participant>交警</Participant>
+			<Denoter>介绍</Denoter>，
+			<Location>事故现场</Location>，
+			<Object>伊兰特轿车</Object>几乎被大货车撞得
+			<Denoter>粉碎</Denoter>，到处是伊兰特轿车残骸。
+		</Sentence>
+		<Sentence>
+			事发时
+			<Object>伊兰特轿车</Object>里共有
+			<Participant>四人</Participant>，其中
+			<Participant>二人</Participant>当场
+			<Denoter>死亡</Denoter>，剩下
+			<Participant>两人一人</Participant>受伤较重一人伤势较轻，现已被
+			<Denoter>送到</Denoter>医院进行
+			<Denoter>救治</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

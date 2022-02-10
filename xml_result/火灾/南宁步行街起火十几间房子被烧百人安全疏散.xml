@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>4月25日下午</Time>，
+			<Location>南宁市兴宁路步行街上的190号三楼一民房</Location>突然
+			<Denoter>起火</Denoter>，火势迅速蔓延，十几间房子被大火吞噬，市民和店主等
+			<Participant>数百人</Participant>被安全
+			<Denoter>疏散</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>消防、民警和市政等部门</Participant>的
+			<Participant>150多人</Participant>
+			<Denoter>奋战</Denoter>一
+			<Time>个半小时</Time>，终于将大火
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>没有造成
+			<Participant>人员</Participant>
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

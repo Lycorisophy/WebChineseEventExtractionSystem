@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			(记者赵颖)
+			<Time>昨天早上6点左右</Time>，
+			<Location>丰台区旧中路东侧一辆运奶车</Location>发生
+			<Denoter>侧翻</Denoter>，撞上四辆停放在路边的轿车，造成近一吨的鲜奶几乎全部
+			<Denoter>泼洒</Denoter>在路面上。
+		</Sentence>
+		<Sentence>
+			<Time>早上8点半左右</Time>，
+			<Location>事发现场</Location>
+			<Object>一辆运载罐装鲜奶的小货车</Object>侧翻在路边，近一吨的鲜奶几乎全部
+			<Denoter>泼洒</Denoter>在路面上。
+		</Sentence>
+		<Sentence>
+			<Participant>牛奶车司机</Participant>称，
+			<Time>当时</Time>他在正常
+			<Denoter>行驶</Denoter>，为了躲避对面车道上一辆货车，不慎冲上人行道并发生侧翻，正好撞上
+			<Denoter>停放</Denoter>在此的轿车，[UNK]要不是撞上轿车，可能我也
+			<Denoter>危险</Denoter>了。[UNK]
+		</Sentence>
+		<Sentence>
+			被撞的
+			<Object>四辆轿车</Object>中，
+			<Object>一辆白色大众轿车</Object>
+			<Denoter>损毁</Denoter>最严重，
+			<Object>车尾</Object>基本报废。
+		</Sentence>
+		<Sentence>
+			其余
+			<Object>轿车车窗、车门</Object>均有不同程度
+			<Denoter>损坏</Denoter>。
+		</Sentence>
+		<Sentence>
+			事发后，
+			<Participant>丰台交警判运奶车司机</Participant>负全责。
+		</Sentence>
+	</Content>
+</Body>

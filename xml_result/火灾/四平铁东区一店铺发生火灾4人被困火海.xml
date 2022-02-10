@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>3月29日6时57分</Time>，
+			<Participant>四平市公安消防支队</Participant>特勤消防接到119指挥中心
+			<Denoter>调度</Denoter>命令：位于
+			<Location>铁东区南一纬七马路一家水暖件店铺</Location>发生
+			<Denoter>火灾</Denoter>，有
+			<Participant>人员</Participant>
+			<Denoter>被困</Denoter>。
+		</Sentence>
+		<Sentence>
+			接到报警后，
+			<Participant>中队</Participant>迅速
+			<Denoter>出动</Denoter>辆水罐消防车、1辆器材消防车、
+			<Participant>320名指战员</Participant>
+			<Denoter>赶赴</Denoter>
+			<Location>火灾现场</Location>。
+		</Sentence>
+		<Sentence>
+			经过5分钟全力
+			<Denoter>救援</Denoter>，
+			<Participant>4名被困人员</Participant>被全部救出，并转移到
+			<Location>安全地带</Location>，同时火势得到了有效
+			<Denoter>控制</Denoter>；经过10分钟的奋力
+			<Denoter>扑救</Denoter>，
+			<Object>大火</Object>被
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			为
+			<Denoter>确保</Denoter>安全，
+			<Participant>指挥员</Participant>根据现场情况对起火部位及其周围实施了冷却降温，防止发生
+			<Denoter>复燃</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

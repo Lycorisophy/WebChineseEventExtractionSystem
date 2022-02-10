@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Time>5月27日</Time>电据美联社报道，
+			<Time>27日早晨</Time>发生在
+			<Location>印尼中爪哇省日惹市附近的里氏6</Location>.2级
+			<Denoter>强震</Denoter>已造成
+			<Participant>至少309人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>数百人</Participant>
+			<Denoter>受伤</Denoter>，
+			<Object>大批房屋</Object>被夷为平地。
+		</Sentence>
+		<Sentence>
+			距离震中最近的
+			<Participant>穆罕默迪亚医院官员库斯马万托</Participant>在接受采访时说：[UNK]请
+			<Denoter>告诉</Denoter>中央政府赶紧提供援助，我们这里需要帮助。
+		</Sentence>
+		<Sentence>
+			有
+			<Participant>大量人员</Participant>
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>房屋</Object>被
+			<Denoter>夷为</Denoter>平地。
+		</Sentence>
+		<Sentence>
+			<Participant>许多人</Participant>需要
+			<Denoter>疏散</Denoter>。[UNK]
+		</Sentence>
+		<Sentence>
+			<Location>贝斯西达医院</Location>管理太平间的
+			<Participant>工作人员苏班迪</Participant>则说：[UNK]我们已经被尸体淹没。[UNK]
+		</Sentence>
+	</Content>
+</Body>

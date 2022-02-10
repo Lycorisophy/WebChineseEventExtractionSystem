@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>29日下午4时许</Time>，
+			<Location>八里街第三工业园区里的一间塑料厂成品仓库</Location>突发火灾，
+			<Object>大量塑料编织袋</Object>起火，冒起滚滚浓烟。
+		</Sentence>
+		<Sentence>
+			<Participant>消防、民警</Participant>相继
+			<Denoter>赶到</Denoter>，一边
+			<Denoter>疏散</Denoter>群众，一边加紧
+			<Denoter>救火</Denoter>，到
+			<Time>当晚9时许</Time>，火势已被
+			<Denoter>控制</Denoter>，所幸大火未造成人员
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

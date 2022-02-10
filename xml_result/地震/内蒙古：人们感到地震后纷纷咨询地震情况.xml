@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>呼和浩特</Location>
+			<Time>5月12日电14时30分左右</Time>，
+			<Location>内蒙古自治区一些地区</Location>均感觉到较强烈
+			<Denoter>震感</Denoter>，
+			<Participant>一些群众</Participant>纷纷向当地
+			<Participant>地震部门</Participant>
+			<Denoter>咨询</Denoter>情况。
+		</Sentence>
+		<Sentence>
+			<Time>当时</Time>正是呼和浩特市各单位刚刚上班之时，
+			<Participant>许多单位工作人员</Participant>感觉桌椅
+			<Denoter>晃动</Denoter>，看到灯管来回摆动，赶紧从办公室跑到
+			<Location>楼下。</Location>
+		</Sentence>
+		<Sentence>
+			<Time>随后</Time>，
+			<Participant>一些市民</Participant>赶紧向新闻媒体的朋友了解
+			<Denoter>地震</Denoter>情况，还有
+			<Participant>一部分市民</Participant>直接
+			<Denoter>拨打</Denoter>内蒙古自治区地震局值班电话，使得
+			<Participant>地震部门值班人员</Participant>应接不暇。
+		</Sentence>
+		<Sentence>
+			<Time>14时40分左右</Time>，
+			<Participant>记者</Participant>
+			<Location>现场</Location>
+			<Denoter>看到</Denoter>：
+			<Participant>一些事业机关工作人员</Participant>都站在院内，通过手机向亲戚朋友询问是否感觉
+			<Denoter>地震</Denoter>；
+			<Participant>一些商店工作人员</Participant>纷纷
+			<Denoter>跑到</Denoter>店外，
+			<Participant>大家</Participant>
+			<Denoter>议论</Denoter>到底哪里发生了
+			<Denoter>地震</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

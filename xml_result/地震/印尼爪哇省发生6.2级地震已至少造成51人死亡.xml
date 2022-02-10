@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>环球在线</Participant>
+			<Denoter>消息</Denoter>：
+			<Participant>印度尼西亚官员</Participant>
+			<Time>5月27日</Time>
+			<Denoter>表示</Denoter>，
+			<Location>爪哇省</Location>
+			<Time>当天早些时候</Time>发生里氏6.2级
+			<Denoter>地震</Denoter>，
+			<Object>一些建筑</Object>
+			<Denoter>倒塌</Denoter>，并造成
+			<Participant>至少51人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>美联社</Participant>报道，
+			<Participant>美国地质勘测机构</Participant>称这次
+			<Denoter>地震</Denoter>发生在
+			<Time>凌晨5点54分左右</Time>，震中位于日惹西南25公里处。
+		</Sentence>
+		<Sentence>
+			医院方面称有
+			<Participant>51人</Participant>
+			<Denoter>死亡</Denoter>，还有
+			<Participant>数十名伤员</Participant>被
+			<Denoter>送往</Denoter>
+			<Location>医院</Location>
+			<Denoter>治疗</Denoter>。
+		</Sentence>
+		<Sentence>
+			而
+			<Participant>印尼警方</Participant>则表示，
+			<Time>目前日</Time>惹的
+			<Object>电力和通讯系统</Object>都已经
+			<Denoter>瘫痪</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>当日</Time>，
+			<Location>云南石林风景区至昆明的高速公路上</Location>连续发生6起
+			<Denoter>交通事故</Denoter>，共有
+			<Object>21辆汽车</Object>
+			<Denoter>相撞</Denoter>，目前已造成
+			<Participant>至少1人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>多人</Participant>
+			<Denoter>重伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

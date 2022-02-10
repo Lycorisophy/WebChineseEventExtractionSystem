@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>1月15日</Time>，据外媒《俄罗斯报》报道称，位于北半球的澳大利亚现在正处于炎热的夏季，而近日也到了高温酷暑的时候，
+			<Time>当地时间1月14日晚</Time>，
+			<Location>澳大利亚南部</Location>一夜间发生至少250起
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			受炎热天气及雷雨天气影响，
+			<Location>澳大利亚南部</Location>一夜间发生至少250起火灾，灾情多集中在维多利亚州。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>发生后，
+			<Participant>救援人员</Participant>立即
+			<Denoter>展开</Denoter>
+			<Object>救灾行动</Object>。
+		</Sentence>
+	</Content>
+</Body>

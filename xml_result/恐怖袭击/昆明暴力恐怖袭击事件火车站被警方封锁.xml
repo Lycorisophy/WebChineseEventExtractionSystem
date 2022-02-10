@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>3月1日23时30分许</Time>，
+			<Location>昆明火车站</Location>被警方
+			<Denoter>封锁</Denoter>，
+			<Location>一楼售票厅</Location>空无人员。
+		</Sentence>
+		<Sentence>
+			<Time>当日21时20分</Time>许，
+			<Location>昆明火车站</Location>发生暴力
+			<Denoter>恐怖袭击</Denoter>事件，一伙歹徒
+			<Denoter>持械</Denoter>伤人。
+		</Sentence>
+		<Sentence>
+			<Time>最新消息</Time>显示，
+			<Time>截至2日6时</Time>，已造成
+			<Participant>29人</Participant>死亡、130余人受伤。
+		</Sentence>
+	</Content>
+</Body>

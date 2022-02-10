@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社</Participant>
+			<Location>西宁</Location>
+			<Time>１１月１０日</Time>电（记者马勇、侯德强）据
+			<Participant>青海省地震台网</Participant>
+			<Denoter>测定</Denoter>，
+			<Time>１１月１０日９时２##２分</Time>，
+			<Location>青海省海西蒙古族藏族自治州大柴旦地区</Location>发生６．３级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>西宁市</Location>、格尔木市等地有
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>格尔木市委有关负责人罗正刚</Participant>
+			<Denoter>告诉</Denoter>记者，
+			<Location>格尔木市区</Location>有明显震感，
+			<Participant>市民</Participant>纷纷
+			<Denoter>跑出</Denoter>建筑物
+			<Denoter>避险</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>青海省地震局工作人员</Participant>
+			<Denoter>介绍</Denoter>，此次震中坐标为北纬３##７．６度，东经９##５．９度，位于大柴旦东南方向，震源深度约１０公里。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>尚未
+			<Denoter>接到</Denoter>人员伤亡和其他损失报告。
+		</Sentence>
+	</Content>
+</Body>

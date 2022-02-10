@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>西部网</Participant>
+			<Time>讯9月8日下午</Time>,在
+			<Location>渭南合阳县境内</Location>发生一起重大
+			<Denoter>交通事故</Denoter>，
+			<Object>一辆中巴车</Object>在
+			<Location>合阳一乡村公路</Location>行驶中因刹车失灵冲入
+			<Location>108国道，与公路左侧土崖</Location>
+			<Denoter>相撞</Denoter>，造成7人
+			<Denoter>死亡</Denoter>，
+			<Participant>23人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>合阳县交警大队</Participant>立即
+			<Denoter>赶赴</Denoter>
+			<Location>事故现场</Location>进行
+			<Denoter>处理</Denoter>，并
+			<Denoter>启动</Denoter>
+			<Object>重大交通事故处置应急预案</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>合阳县相关领导</Participant>以及公安、交通、卫生、安监等部门相继
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>，全力
+			<Denoter>组织</Denoter>开展伤病
+			<Denoter>救治</Denoter>工作。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>
+			<Participant>23名伤者</Participant>的情况基本稳定。
+		</Sentence>
+	</Content>
+</Body>

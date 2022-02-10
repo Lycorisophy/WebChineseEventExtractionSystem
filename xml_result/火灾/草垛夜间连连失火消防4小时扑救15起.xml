@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>
+			<Time>3月27日晚上10点至3月28日凌晨2点</Time>，
+			<Location>鄂尔多斯市达拉特旗树林召镇210国道35公里周边村庄</Location>
+			<Object>一村民家蔬菜大棚</Object>突发大火，
+			<Participant>14家村民</Participant>家草垛
+			<Denoter>起火</Denoter>，情况紧急，请求
+			<Denoter>扑救</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>消防指挥员</Participant>在
+			<Denoter>前往</Denoter>
+			<Location>火灾现场</Location>的途中，
+			<Participant>电话指导报警人</Participant>组织村民先对火势进行有效
+			<Denoter>控制</Denoter>，
+			<Denoter>抵达</Denoter>
+			<Location>火灾现场</Location>后，只见
+			<Location>现场周边</Location>浓烟滚滚，一片火海。
+		</Sentence>
+		<Sentence>
+			<Denoter>了解</Denoter>情况后，
+			<Participant>指挥员</Participant>立即指挥
+			<Participant>消防官兵</Participant>进行
+			<Denoter>扑救</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>10点半左右</Time>，
+			<Participant>达旗新能能源企业消防队</Participant>
+			<Denoter>派出</Denoter>2辆消防车到场
+			<Denoter>增援</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>12日早7时许</Time>，
+			<Location>２０##８国道乌兰察布市察哈尔右翼后旗大陆号收费站</Location>北１．５公里处发生一起交通事故，面包车内
+			<Participant>８名乘客</Participant>全部
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>事故原因</Object>是
+			<Object>一辆银白色小面包车</Object>和一辆解放牌大货车
+			<Denoter>相撞</Denoter>造成。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>死者</Participant>家属介绍，他们是来自乌
+			<Location>兰察布市兴和县二十号地村的村民</Location>，欲
+			<Denoter>前往</Denoter>
+			<Location>察哈尔右翼前旗礼拜寺</Location>做礼拜，车上共有３女５男。
+		</Sentence>
+		<Sentence>
+			他们乘坐的
+			<Object>银灰色面包车</Object>由北向南
+			<Denoter>行驶</Denoter>，与一辆货车
+			<Denoter>相撞</Denoter>，车上
+			<Participant>８名乘客</Participant>当即
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>验尸</Denoter>结束后，
+			<Participant>尸体</Participant>已经由家属认领并作善后
+			<Denoter>处理</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>内蒙古交警总队及乌兰察布市交警支队工作人员</Participant>
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>对事故进行妥善
+			<Denoter>处理</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>事故原因</Object>正在进一步
+			<Denoter>核查</Denoter>中。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>3月26日下午1时27分</Time>，
+			<Location>普宁市军埠镇一家庭作坊</Location>(主要生产内衣)发生火灾，
+			<Time>1时54</Time>分，火势被
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>截至发稿时</Time>，现场解救出
+			<Participant>17名群众</Participant>，
+			<Participant>15人</Participant>不同程度受伤送医院救治，接报后，
+			<Participant>揭阳市委、市政府</Participant>高度
+			<Denoter>重视</Denoter>，
+			<Participant>揭阳市委书记陈绿平</Participant>迅速作出
+			<Denoter>批示</Denoter>，要求普宁市及有关部门全力组织
+			<Denoter>搜救</Denoter>，尽全力
+			<Denoter>抢救</Denoter>伤员。
+		</Sentence>
+		<Sentence>
+			<Time>同时</Time>，立刻
+			<Denoter>指派</Denoter>
+			<Participant>揭阳市委常委、常务副市长陈澄民，揭阳副市长、市公安局局长谢耀琪</Participant>
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>，并成立事故
+			<Participant>处置小组</Participant>
+			<Denoter>负责</Denoter>
+			<Object>事故处置工作</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>揭阳市消防部门</Participant>
+			<Denoter>出动</Denoter>7台消防车，
+			<Participant>45名消防员</Participant>立即
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>
+			<Denoter>灭火</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>普宁市党政主要负责同志</Participant>第一时间
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>，全力
+			<Denoter>组织</Denoter>灭火和人员
+			<Denoter>救治</Denoter>工作。
+		</Sentence>
+	</Content>
+</Body>

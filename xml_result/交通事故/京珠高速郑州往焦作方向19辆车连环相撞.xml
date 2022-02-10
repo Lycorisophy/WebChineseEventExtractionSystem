@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Time>4月15日</Time>电据中国消防在线消息，
+			<Time>4月14日</Time>，
+			<Location>京珠高速郑州往焦作方向28公里处</Location>，发生一起19车连撞事故，造成
+			<Participant>50余人</Participant>
+			<Denoter>被困</Denoter>，道路一度
+			<Denoter>堵塞</Denoter>近5个小时。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中新网</Participant>
+			<Time>3月6日</Time>电据
+			<Participant>美国中文网</Participant>援引美国中文电视报道，昆明的恐怖
+			<Denoter>袭击</Denoter>事件牵动着全球华人的心。
+		</Sentence>
+		<Sentence>
+			<Participant>波士顿大学留学生</Participant>
+			<Time>3月4日晚</Time>在学校举办
+			<Denoter>悼念</Denoter>，为
+			<Participant>遇难者</Participant>
+			<Denoter>祈福</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>3月4日晚</Time>，
+			<Participant>波士顿大学中国学生学者</Participant>联合会组织了一场烛光祈福悼念会，用这种方式向昆明送去他们的祝福。
+		</Sentence>
+		<Sentence>
+			<Participant>五六十名来</Participant>自中国各地的学生聚集在
+			<Location>波士顿大学的mar##sh教堂前</Location>，手捧蜡烛，为昆明暴恐事件遇难者祈福，并写下了自己对昆明的祝福。
+		</Sentence>
+		<Sentence>
+			<Time>这次</Time>的
+			<Denoter>悼念</Denoter>会，是由波士顿大学的两名来自昆明的学生提出的。
+		</Sentence>
+		<Sentence>
+			在	o听	o到	o自	o己	o家	o乡	o发	o生	o这	o样	o的	o事	o件	o都	o感	o到	o震	o惊	o和	o悲	o愤	o。	o
+		</Sentence>
+		<Sentence>
+			<Participant>他们</Participant>说，之后会把大家的祝福
+			<Denoter>带回</Denoter>
+			<Location>昆明</Location>，让人们知道，远隔重洋的他们也心系中国。
+		</Sentence>
+	</Content>
+</Body>

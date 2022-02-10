@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>国际在线消息</Participant>(记者金力)：
+			<Location>比利时一家养老院</Location>
+			<Time>6日晚</Time>发生
+			<Denoter>火灾</Denoter>，造成
+			<Participant>9名老人</Participant>死亡，
+			<Participant>3名老人</Participant>伤势严重。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>发生在
+			<Location>比利时首都布鲁塞尔以西大约50公里的梅勒。</Location>
+		</Sentence>
+		<Sentence>
+			据初步
+			<Denoter>调查</Denoter>，
+			<Object>起火原因</Object>为
+			<Object>内部设备</Object>过热。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>发生时，
+			<Location>养老院内</Location>有
+			<Participant>大约100名老人，他们</Participant>大部分已经
+			<Denoter>休息</Denoter>，但由于当天是今年入夏以来比利时最热的一天，气温达到了摄氏30度，因此他们睡觉时都开着房门。
+		</Sentence>
+		<Sentence>
+			这	o使	o得	o事	o故	o的	o伤	o亡	o人	o数	o大	o为	o减	o少	o。	o
+		</Sentence>
+	</Content>
+</Body>

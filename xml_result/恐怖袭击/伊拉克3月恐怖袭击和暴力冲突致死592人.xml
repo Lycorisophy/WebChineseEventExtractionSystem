@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>巴格达</Location>
+			<Time>４月１日</Time>电（记者梁有昶张淑惠）联合国伊拉克援助团
+			<Time>１日</Time>发表公报说，今年３月，伊拉克境内恐怖
+			<Denoter>袭击</Denoter>和暴力冲突共导致
+			<Participant>５##９##２人</Participant>
+			<Denoter>死亡</Denoter>、
+			<Participant>１２##３##４人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>公报</Time>说，根据从安巴尔省卫生厅获得的未经联合国伊拉克援助团独立核实的数据，今年３月，安巴尔省的暴力事件共导致
+			<Participant>至少１５##６名平民死亡、７##４##１名平民</Participant>受伤，其中首府拉马迪有８##０人死亡、４##４##８人受伤；重要城市费卢杰有
+			<Participant>７##６人</Participant>
+			<Denoter>死亡</Denoter>、
+			<Participant>２##９##３人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>自去年年初以来</Time>，伊拉克恐怖活动和暴力袭击事件频繁发生，安全形势严峻。
+		</Sentence>
+	</Content>
+</Body>

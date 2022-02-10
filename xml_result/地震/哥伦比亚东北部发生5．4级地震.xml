@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			根据美国地质勘探局地震信息网消息，
+			<Location>哥伦比亚东北部桑坦德省</Location>
+			<Time>当地时间7日15时37分</Time>（北京时间8日4时37分）发生5．4级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>首都波哥大、中部城市麦德林</Location>等地均有
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>尚无人员伤亡和财产损失的
+			<Denoter>报道</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>美国地质勘探局地震信息</Participant>网数据
+			<Denoter>显示</Denoter>，此次
+			<Denoter>地震</Denoter>震源深度为157．6公里。
+		</Sentence>
+		<Sentence>
+			哥伦比亚媒体报道说，地震震中位于
+			<Location>桑坦德省洛斯桑托斯市附近，桑坦德省省会城市布卡拉曼加</Location>震感强烈。
+		</Sentence>
+		<Sentence>
+			<Participant>洛斯桑托斯市市长卡洛斯・托拉</Participant>在接受电台采访时说，地震持续了
+			<Time>20秒左右</Time>，
+			<Participant>很多市民</Participant>跑到了街上。
+		</Sentence>
+	</Content>
+</Body>

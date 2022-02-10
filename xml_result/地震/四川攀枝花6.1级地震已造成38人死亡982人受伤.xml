@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>中国网</Participant>
+			<Time>9月3日</Time>
+			<Denoter>报道</Denoter>记者从中国地震局获悉，截至
+			<Time>9月3日8时</Time>，发生在
+			<Location>四川攀枝花仁和区和凉山州会理县交界处</Location>的6.1级
+			<Denoter>地震</Denoter>已造成
+			<Participant>38人</Participant>
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>北京时间2008年8月30日16时30分</Time>，在
+			<Location>四川省攀枝花市仁和区与凉山彝族自治州会理县交界地区</Location>（北纬26.2度,东经101.9度）发生里氏6.1级
+			<Denoter>地震</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Location>四川省攀枝花市</Location>、凉山州，云南省楚雄州、昆明市等地有强烈
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>截至9月3日8时</Time>，地震已造成
+			<Participant>38人</Participant>
+			<Denoter>死亡</Denoter>（其中四川32人，云南6人），
+			<Participant>1人失踪，98##2人</Participant>受伤（其中四川63##7人，云南345人）。
+		</Sentence>
+		<Sentence>
+			<Location>四川省凉山彝族自治州会理</Location>县死亡27人，失踪1人；攀枝花市死亡5人（东区1人，西区2人，仁和区1人，米易县1人）；云南省楚雄彝族自治州元谋县和永仁县分别死亡5人和1人。
+		</Sentence>
+		<Sentence>
+			经初步调查，地震主要造成四川省攀枝花市东区、西区、仁和区、米易县、盐边县和凉山彝族自治州会理县等6个县（区）72个乡镇，云南省楚雄彝族自治州元谋县、永仁县、武定县等3个县
+			<Object>20个乡镇</Object>
+			<Denoter>受灾</Denoter>，灾区总人口约120万。
+		</Sentence>
+		<Sentence>
+			<Location>极灾区</Location>烈度达到[UNK]度。
+		</Sentence>
+		<Sentence>
+			其	o中	o[UNK]	o度	o面	o积	o约	o600	o平	o方	o公	o里	o，	o[UNK]	o度	o区	o面	o积	o约	o1500	o平	o方	o公	o里	o，	o[UNK]	o度	o区	o面	o积	o约	o7500	o平	o方	o公	o里	o，	o灾	o区	o总	o面	o积	o约	o960	o##0	o平	o方	o公	o里	o。	o
+		</Sentence>
+		<Sentence>
+			另外
+			<Location>楚雄州大姚县</Location>、牟定县、昆明市禄劝县和丽江市华坪县等地区遭受到一定
+			<Denoter>破坏</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>
+			<Location>乌鲁木齐</Location>
+			<Time>8月7日</Time>电(阿合买提江吴香俊)经过
+			<Time>近十一个小时</Time>的全力
+			<Denoter>扑救</Denoter>，
+			<Location>新疆阿勒泰地区布尔津县境内</Location>发生的
+			<Denoter>森林火灾</Denoter>已于
+			<Time>6日凌晨</Time>全部
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>布尔津县应急管理办公室主任冯强华</Participant>介绍，
+			<Time>5日18时左右</Time>，
+			<Location>布尔津县冲乎尔乡乔巴特地区在建水电站以西大约两公里处的一片森林草场</Location>发生
+			<Denoter>大火</Denoter>，过火面积达91亩，大火所过之处很多灌木和草场被
+			<Denoter>烧毁</Denoter>，所幸未造成树木燃烧和人员
+			<Denoter>伤亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Denoter>火灾</Denoter>发生后，
+			<Participant>当地政府</Participant>及武警边防派出所、阿勒泰森林消防支队、县护林防火办、当地民兵及群众等
+			<Participant>80余人</Participant>，立即
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>进行紧急
+			<Denoter>灭火</Denoter>。
+		</Sentence>
+		<Sentence>
+			经过
+			<Time>一夜</Time>的
+			<Denoter>扑救</Denoter>，
+			<Time>6日凌晨4时</Time>将
+			<Object>大火</Object>全部
+			<Denoter>扑灭</Denoter>。
+		</Sentence>
+		<Sentence>
+			据了解，
+			<Location>乔巴特森林区距新疆著名景区喀纳斯100公里，距乌鲁木齐市</Location>850公里。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>4月6日下午13时</Time>,山东省青岛市林业局通报清明节期间全市
+			<Object>森林火灾情况</Object>,
+			<Time>截至今天7时</Time>,青岛市共发生
+			<Denoter>森林火灾</Denoter>6起,其中5处火灾已经
+			<Denoter>扑灭</Denoter>,1处火灾得到
+			<Denoter>控制</Denoter>。
+		</Sentence>
+		<Sentence>
+			已有涉及2起案件的
+			<Participant>5名嫌疑人</Participant>被
+			<Denoter>控制</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

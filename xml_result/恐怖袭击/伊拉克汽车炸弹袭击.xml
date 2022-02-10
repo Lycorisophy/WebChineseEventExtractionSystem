@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			虽然
+			<Object>美军大规模军事行动</Object>已结束，但伊拉克没有一天是平静的。
+		</Sentence>
+		<Sentence>
+			<Time>本年度</Time>第一起重大
+			<Denoter>恐怖袭击</Denoter>事件就发生在
+			<Location>伊拉克。</Location>
+		</Sentence>
+		<Sentence>
+			<Time>２月28日</Time>，
+			<Location>希拉市</Location>发生一起自杀式汽车炸弹袭击事件，造成
+			<Participant>１##25名平民</Participant>死亡，
+			<Participant>２０##０人</Participant>受伤。
+		</Sentence>
+	</Content>
+</Body>

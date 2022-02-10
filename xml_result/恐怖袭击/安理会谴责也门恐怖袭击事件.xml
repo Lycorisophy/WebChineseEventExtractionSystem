@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网</Participant>联合国
+			<Time>３月２##５日</Time>电（记者倪红梅顾震球）联合国安理会
+			<Time>２##５日</Time>发表媒体声明，强烈
+			<Denoter>谴责</Denoter>２４日发生在也门东部、造成多名士兵死亡的恐怖
+			<Denoter>袭击</Denoter>，并重申要坚决
+			<Denoter>打击</Denoter>一切形式的恐怖主义。
+		</Sentence>
+		<Sentence>
+			<Time>声明</Time>说，
+			<Participant>安理会</Participant>重申，任何形式的恐怖主义都是对国际和平与安全构成的最严重威胁之一，恐怖主义不论发生在何时何地、由谁实施、出于何种动机，都是犯罪行为且无法
+			<Denoter>开脱</Denoter>罪责。
+		</Sentence>
+		<Sentence>
+			<Participant>安理会</Participant>同时强调，必须将
+			<Participant>这些恐怖主义行径的实施者、组织者、资助者和支持者</Participant>绳之以法，同时敦促所有国家按照国际法和安理会相关决议规定的义务，在这些方面与也
+			<Participant>门当局</Participant>积极
+			<Denoter>合作</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>也门东部哈德拉毛省安全官员</Participant>
+			<Time>２４日说</Time>，位于该省的一处政府军军营当天遭到[UNK]基地[UNK]组织武装人员
+			<Denoter>袭击</Denoter>，造成
+			<Participant>２４名政府军士兵</Participant>死亡，
+			<Participant>１人</Participant>
+			<Denoter>重伤</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

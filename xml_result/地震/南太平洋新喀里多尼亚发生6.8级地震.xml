@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华社</Participant>
+			<Location>惠灵顿</Location>
+			<Time>１月１##９日</Time>电（记者刘洁秋）据美国地质勘探局
+			<Denoter>报告</Denoter>，位于
+			<Location>南太平洋的新喀里多尼亚附近海域</Location>
+			<Time>１##９日</Time>发生里氏６．８级
+			<Denoter>地震</Denoter>，目前尚未有人员伤亡或财产损失的报告。
+		</Sentence>
+		<Sentence>
+			<Time>当天</Time>的
+			<Denoter>地震</Denoter>发生在
+			<Time>北京时间１１时３##５分</Time>，震中在
+			<Location>洛亚蒂群岛附近</Location>，震源深度约３##３公里。
+		</Sentence>
+		<Sentence>
+			位于
+			<Location>夏威夷的太平洋海啸预警中心</Location>没有
+			<Denoter>发布</Denoter>
+			<Object>海啸警报</Object>。
+		</Sentence>
+		<Sentence>
+			<Location>新喀里多尼亚</Location>位于南太平洋，面积１８##５##７##５平方公里，由
+			<Location>新喀里多尼亚岛、洛亚蒂群岛和无人居住的切斯特菲尔德群岛</Location>组成。
+		</Sentence>
+	</Content>
+</Body>

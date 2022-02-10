@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>8月12日上午11时许</Time>，在
+			<Location>八大处公园附近的实兴北街和八大处街交叉口</Location>，
+			<Object>一辆水泥搅拌车</Object>将一骑自行车女孩卷进车轮下，女孩不幸
+			<Denoter>身亡</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>女孩</Participant>
+			<Time>17岁</Time>，是从浙江老家来京看望在京养蜂的父母的。
+		</Sentence>
+		<Sentence>
+			<Time>昨天上午11时20分许</Time>，在
+			<Location>事发现场</Location>，一辆印有[UNK]北京恒坤[UNK]字样的
+			<Object>水泥搅拌车车头</Object>向东停在十字路口，后车轮下一辆自行车已经
+			<Denoter>扭曲</Denoter>变形,地上还有几摊
+			<Denoter>血迹</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

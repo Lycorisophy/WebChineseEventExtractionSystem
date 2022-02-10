@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Location>洪都拉斯首都特古西加尔巴市中心一个市场</Location>
+			<Time>３０日</Time>发生大火，火势随即蔓延到
+			<Location>附近的商业区</Location>和银行区，但目前尚未有人员
+			<Denoter>死伤</Denoter>的报告。
+		</Sentence>
+		<Sentence>
+			<Time>当地时间清晨５点３０分左右</Time>，位于
+			<Location>洪首都特古西加尔巴市中心位置的科隆市场</Location>突然
+			<Denoter>起火</Denoter>，火势很快蔓延到
+			<Location>附近一家以经营服装为主的街道</Location>，并影响到了周边的银行和学校。
+		</Sentence>
+		<Sentence>
+			<Participant>记者</Participant>看到，历史悠久的
+			<Object>克隆市场</Object>几乎完全
+			<Denoter>毁于</Denoter>火灾。
+		</Sentence>
+		<Sentence>
+			<Location>火灾现场附近的数十条街区</Location>都
+			<Denoter>笼罩</Denoter>在浓烟之中。
+		</Sentence>
+		<Sentence>
+			<Participant>洪首都消防总队发言人奥斯卡</Participant>在接受新华社记者采访的时说，为了
+			<Denoter>控制</Denoter>火势，他们出动了附近消防站全部的１８辆消防车和
+			<Participant>２##５##０名消防员</Participant>，经过数小时的紧急
+			<Denoter>扑救</Denoter>，火势已经基本得到了
+			<Denoter>控制</Denoter>，但是暂时还未
+			<Denoter>探明</Denoter>
+			<Object>起火原因</Object>。
+		</Sentence>
+		<Sentence>
+			<Participant>奥斯卡</Participant>说，由于火灾发生在
+			<Time>清晨</Time>，市场内
+			<Participant>商贩</Participant>不多，因此目前尚未有人员死伤的报告。
+		</Sentence>
+		<Sentence>
+			不	o过	o根	o据	o洪	o首	o都	o消	o防	o总	o队	o的	o记	o录	o，	o本	o次	o火	o灾	o是	o首	o都	o地	o区	o近	o十	o年	o历	o史	o上	o最	o为	o严	o重	o的	o一	o次	o。	o
+		</Sentence>
+	</Content>
+</Body>

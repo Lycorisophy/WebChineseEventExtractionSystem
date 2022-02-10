@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>新华网太原5</Participant>
+			<Time>月12日</Time>电（记者滕军伟）12
+			<Time>日14时30分左右</Time>，
+			<Location>太原市</Location>有明显震感，
+			<Participant>市民</Participant>纷纷
+			<Denoter>跑到</Denoter>街上，目前当地社会秩序已经恢复正常。
+		</Sentence>
+		<Sentence>
+			据
+			<Participant>记者</Participant>电话向有关部门了解，
+			<Location>山西省临汾市</Location>、运城市等地区也有明显
+			<Denoter>震感</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>太原市民</Participant>能明显感到桌子、家具剧烈
+			<Denoter>晃动</Denoter>，尤其是
+			<Object>高层建筑</Object>
+			<Denoter>晃动</Denoter>比较明显，很多人跑到
+			<Location>户外空旷地带。</Location>
+		</Sentence>
+		<Sentence>
+			据
+			<Location>迎泽大街</Location>一家银行的
+			<Participant>工作人员</Participant>
+			<Denoter>介绍</Denoter>，地震发生时，人在地上有点站不稳，
+			<Participant>许多人</Participant>都跑到了大街上
+			<Denoter>躲避</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

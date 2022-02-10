@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>
+			<Participant>记者童福萍摄影</Participant>
+			<Denoter>报道</Denoter>：
+			<Time>昨日上午</Time>，在
+			<Location>景德镇昌江区鱼山镇弯头坞附近，一辆上饶鄱阳开往浙江衢州的客车</Location>与一辆景德镇开往乐平的
+			<Object>客车</Object>
+			<Denoter>相撞</Denoter>，其中景德镇开往乐平的客车
+			<Denoter>拦腰</Denoter>被撞，
+			<Participant>5人</Participant>当场
+			<Denoter>死亡</Denoter>。
+		</Sentence>
+	</Content>
+</Body>

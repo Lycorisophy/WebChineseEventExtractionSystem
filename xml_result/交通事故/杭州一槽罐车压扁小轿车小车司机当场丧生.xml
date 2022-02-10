@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>讯
+			<Time>昨天中午12点左右</Time>，
+			<Location>杭州市文一西路荆大线口</Location>，一声巨响传来，正在附近开店的王师傅一看，
+			<Object>一辆槽罐车</Object>把一辆黑色的
+			<Object>本田小轿车</Object>压在身下了。
+		</Sentence>
+		<Sentence>
+			<Time>随后</Time>，
+			<Participant>交警及施救车辆</Participant>
+			<Denoter>赶到</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+	</Content>
+</Body>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>新华社莫斯科8</Participant>
+			<Time>月21日</Time>电（记者宋世益王丹蒂）俄罗斯莫斯科市检察长肖明
+			<Time>21日</Time>
+			<Denoter>宣布</Denoter>，
+			<Location>莫斯科东部的[UNK]切尔基佐夫[UNK]市场</Location>当天上午发生
+			<Denoter>爆炸</Denoter>。
+		</Sentence>
+		<Sentence>
+			这起事件已造成
+			<Participant>至少10人</Participant>
+			<Denoter>死亡</Denoter>，
+			<Participant>41人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>肖明</Participant>说，事件由商业
+			<Denoter>纠纷</Denoter>引起。
+		</Sentence>
+		<Sentence>
+			<Denoter>爆炸</Denoter>发生在
+			<Location>市场内的两个集装箱</Location>之间，爆炸物为自制的
+			<Object>爆炸装置</Object>，威力相当于1公斤ｔ##ｎ##ｔ炸药。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，由
+			<Participant>莫斯科检察院组织的专家调查小组</Participant>正在对事件作进一步
+			<Denoter>调查</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>新华社记者</Participant>在爆炸现场看到，市场内所有店铺和摊位几乎都已
+			<Denoter>关闭</Denoter>，大批来自高加索和独联体其他地区的
+			<Participant>商人</Participant>正纷纷
+			<Denoter>离开</Denoter>
+			<Location>现场</Location>。
+		</Sentence>
+	</Content>
+</Body>

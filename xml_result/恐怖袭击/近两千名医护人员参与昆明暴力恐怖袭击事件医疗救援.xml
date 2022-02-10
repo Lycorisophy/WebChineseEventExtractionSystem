@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			据
+			<Participant>云南省卫生厅</Participant>最新
+			<Denoter>通报</Denoter>，针对昆明暴力恐怖袭击事件，国家卫生计生委从北京和成都紧急派出国家医疗队四批、27人，于
+			<Time>2日</Time>全部
+			<Denoter>抵达</Denoter>昆明，帮助指导伤员医疗救治工作。
+		</Sentence>
+		<Sentence>
+			<Time>截至2日18：00</Time>，
+			<Participant>各级医疗机构</Participant>直接参与伤员救治的医护人员达
+			<Participant>1916名</Participant>，已开展急诊手术104台次，应急采血1000多人次，使用血液75##4袋（100##8.5单位）。
+		</Sentence>
+		<Sentence>
+			据
+			<Denoter>通报</Denoter>，事件发生后，
+			<Participant>刘延东副总理</Participant>高度
+			<Denoter>重视</Denoter>，对
+			<Object>救治工作</Object>作出重要
+			<Denoter>批示</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Participant>云南省领导、国家卫生计生委领导</Participant>也
+			<Denoter>赶赴</Denoter>
+			<Location>现场</Location>或作出批示指导
+			<Denoter>救治</Denoter>工作。
+		</Sentence>
+		<Sentence>
+			<Participant>云南省卫生厅</Participant>表示，
+			<Time>3月1日21:17</Time>，
+			<Location>云南省急救中心</Location>接到呼救电话，立即
+			<Denoter>指挥</Denoter>调度救护车辆和医护人员，于
+			<Time>21:28</Time>即到达
+			<Location>现场</Location>；共计出动救护车13辆次、派出医护人员80
+			<Participant>人次</Participant>
+			<Denoter>转送</Denoter>伤亡人员。
+		</Sentence>
+	</Content>
+</Body>

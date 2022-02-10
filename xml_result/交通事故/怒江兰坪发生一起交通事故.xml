@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>日前</Time>，
+			<Location>兰坪白族普米族自治县石登乡境内三山矿区</Location>发生一起道路交通事故，造成
+			<Participant>1人</Participant>当场
+			<Denoter>死亡</Denoter>，
+			<Participant>3人</Participant>
+			<Denoter>送往</Denoter>
+			<Location>医院</Location>途中因失血过多死亡，
+			<Participant>2人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Time>据悉，16日23时10分</Time>，
+			<Participant>昆明市官渡区籍驾驶员</Participant>易某驾驶车牌为云q##06##82##3轻型普通货车，车辆核载6人、实载6人，从
+			<Location>石登乡大竹箐村委会</Location>
+			<Denoter>驶往</Denoter>
+			<Location>回龙村委会灰山矿山</Location>。
+		</Sentence>
+		<Sentence>
+			车行至
+			<Location>回龙村委会灰山矿山自用公路k2##0+800米处</Location>时，
+			<Object>车辆</Object>翻下320米边坡，1人当场死亡，
+			<Participant>易某等3人</Participant>
+			<Denoter>送往</Denoter>医院途中因失血过多死亡，
+			<Participant>2人</Participant>
+			<Denoter>受伤</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>兰坪县委、县政府</Participant>立即组织公安、交警、安监、卫生等相关部门迅速
+			<Denoter>开展</Denoter>救助和处置工作。
+		</Sentence>
+		<Sentence>
+			<Time>目前</Time>，
+			<Participant>受伤人员</Participant>经兰坪县人民医院初步
+			<Denoter>治疗</Denoter>后，应伤者单位要求，已先后
+			<Denoter>送往</Denoter>大理和昆明救治。
+		</Sentence>
+	</Content>
+</Body>

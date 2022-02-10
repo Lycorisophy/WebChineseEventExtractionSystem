@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Participant>本报</Participant>
+			<Denoter>讯</Denoter>（实习生苏季）昨晨，
+			<Location>大兴亦庄开发区一路口</Location>发生
+			<Denoter>车祸</Denoter>。
+		</Sentence>
+		<Sentence>
+			<Object>一辆摩托车</Object>与货车
+			<Denoter>相撞</Denoter>，造成摩托车上人员一死一伤。
+		</Sentence>
+		<Sentence>
+			<Denoter>事故</Denoter>发生在
+			<Location>同济南路与景园街相交的十字路口处</Location>。
+		</Sentence>
+		<Sentence>
+			<Participant>目击者张先生</Participant>说，
+			<Time>早上7点半左右</Time>，一辆摩托车和一辆路过大货车
+			<Denoter>相撞</Denoter>，摩托车上两人摔了出去。
+		</Sentence>
+	</Content>
+</Body>

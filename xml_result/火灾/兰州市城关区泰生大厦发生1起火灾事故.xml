@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Body>
+	<Content>
+		<Sentence>
+			<Time>2014年1月2日14时许</Time>，
+			<Location>城关区泰生大厦第30层</Location>发生
+			<Denoter>火灾</Denoter>。
+		</Sentence>
+		<Sentence>
+			事故发生后，
+			<Participant>市政府袁占亭市长、胥波副市长、咸大明副市长</Participant>第一时间
+			<Denoter>赶赴</Denoter>
+			<Location>事故现场</Location>，指导灭火救援工作。
+		</Sentence>
+		<Sentence>
+			<Participant>袁占亭市长主持</Participant>
+			<Denoter>召开</Denoter>了
+			<Location>事故现场会</Location>，
+			<Participant>城关区政府主要领导及相关部门负责同志</Participant>
+			<Denoter>参加</Denoter>了会议。
+		</Sentence>
+	</Content>
+</Body>
